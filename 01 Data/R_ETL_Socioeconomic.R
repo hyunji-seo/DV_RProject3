@@ -41,7 +41,7 @@ if( length(measures) > 1 || ! is.na(dimensions)) {
 # Get rid of all characters in measures except for numbers, the - sign, and period.dimensions
 if( length(measures) > 1 || ! is.na(measures)) {
   for(m in measures) {
-    dfS[m] <- data.frame(lapply(dfS[m, ], gsub, pattern="[^--.0-9]",replacement= ""))
+    dfS[m] <- data.frame(lapply(dfS[m], gsub, pattern="[^--.0-9]",replacement= ""))
 
   }
 }

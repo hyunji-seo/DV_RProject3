@@ -14,8 +14,8 @@ names(dfH) <- gsub("\\.+", "_", names(dfH))
 
 #str(dfH) # Uncomment this and  run just the lines to here to get column types to use for getting the list of measures.
 
-#measures <- c("Community_Area", "Birth_Rate", "General_Fertility_Rate", "Low_Birth_Weight", "Prenatal_Care_First_Trimester", "Preterm_Births", "Teen_Birth_Rate", "Assault_Homicide", "Breast_Cancer_Fem", "Cancer_All_Sites", "Colorectal_Cancer", "Diabetes_related", "Firearm_related", "Inf_Mort_Rate", "Lung_Cancer","Prostate_Cancer_M", "Stroke_Cerebrovascular_Disease", "Child_Blood_Lv_Screening", "Child_Lead_Poisoning", "Tuberculosis", "Below_Poverty_Level", "Crowded_Housing", "Dependency", "No_HS_Diploma", "Per_Capita_Income", "Unemployment")
-measures <- NA # Do this if there are no measures.
+measures <- c("Community_Area", "Birth_Rate", "General_Fertility_Rate", "Low_Birth_Weight", "Prenatal_Care_First_Trimester", "Preterm_Births", "Teen_Birth_Rate", "Assault_Homicide", "Breast_Cancer_Fem", "Cancer_All_Sites", "Colorectal_Cancer", "Diabetes_related", "Firearm_related", "Inf_Mort_Rate", "Lung_Cancer","Prostate_Cancer_M", "Stroke_Cerebrovascular_Disease", "Child_Blood_Lv_Screening", "Child_Lead_Poisoning", "Tuberculosis", "Below_Poverty_Level", "Crowded_Housing", "Dependency", "No_HS_Diploma", "Per_Capita_Income", "Unemployment")
+#measures <- NA # Do this if there are no measures.
 
 # Get rid of special characters in each column.
 # Google ASCII Table to understand the following:
@@ -41,7 +41,7 @@ if( length(measures) > 1 || ! is.na(dimensions)) {
 # Get rid of all characters in measures except for numbers, the - sign, and period.dimensions
 if( length(measures) > 1 || ! is.na(measures)) {
   for(m in measures) {
-    dfH[m] <- data.frame(lapply(dfH[m, ], gsub, pattern="[^--.0-9]",replacement= "x"))
+    dfH[m] <- data.frame(lapply(dfH[m], gsub, pattern="[^--.0-9]",replacement= "x"))
 
   }
 }

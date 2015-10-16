@@ -14,8 +14,8 @@ names(dfC) <- gsub("\\.+", "_", names(dfC))
 
 str(dfC) # Uncomment this and  run just the lines to here to get column types to use for getting the list of measures.
 
-#measures <- c("ID", "Beat", "District", "Ward", "Community_Area", "X_Coordinate", "Y_Coordinate", "Year", "Latitude", "Longitude")
-measures <- NA # Do this if there are no measures.
+measures <- c("ID", "Beat", "District", "Ward", "Community_Area", "X_Coordinate", "Y_Coordinate", "Year", "Latitude", "Longitude")
+#measures <- NA # Do this if there are no measures.
 
 # Get rid of special characters in each column.
 # Google ASCII Table to understand the following:
@@ -41,7 +41,7 @@ if( length(measures) > 1 || ! is.na(dimensions)) {
 # Get rid of all characters in measures except for numbers, the - sign, and period.dimensions
 if( length(measures) > 1 || ! is.na(measures)) {
   for(m in measures) {
-    dfC[m] <- data.frame(lapply(dfC[m, ], gsub, pattern="[^--.0-9]",replacement= ""))
+    dfC[m] <- data.frame(lapply(dfC[m], gsub, pattern="[^--.0-9]",replacement= ""))
 
   }
 }
