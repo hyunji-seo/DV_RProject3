@@ -1,0 +1,567 @@
+School ID,School Name,School Type,City,State,ZIP Code,CPS Perf Level,Safety,Safety Score,Family Involvement,Family Score,Environment,Environment Score,Instruction,Instruction Score,Teachers,Teachers Score,Parent Engage,Parent Engage Score,Parent Env,Parent Env Score,Avg Student Atd,Misconduct Rate,Avg Teacher Atd,ISAT Exceed Math,ISAT Exceed Reading,College Enrollment,Community Area,Community Name,Ward,Police District
+610038,Abraham Lincoln Elementary School,ES,Chicago,IL,60614,Level 1,Very Strong,99,Very Strong,99,Strong,74,Strong,66,Strong,70,Strong,56,Average,47,96.00%,2,96.40%,69.7,64.4,813,7,LINCOLN PARK,43,18
+610281,Adam Clayton Powell Paideia Community Academy Elementary School,ES,Chicago,IL,60649,Level 1,Average,54,Strong,66,Strong,74,Very Strong,84,Strong,76,Weak,46,Average,50,95.60%,15.7,95.30%,16.8,16.5,521,43,SOUTH SHORE,7,4
+610185,Adlai E Stevenson Elementary School,ES,Chicago,IL,60652,Level 2,Strong,61,NDA,NDA,Average,50,Weak,36,NDA,NDA,Average,47,Weak,41,95.70%,2.3,94.70%,18.3,15.5,1324,70,ASHBURN,13,8
+609993,Agustin Lara Elementary Academy,ES,Chicago,IL,60609,Level 1,Average,56,Average,44,Average,45,Weak,37,Average,48,Average,53,Strong,58,95.50%,10.4,95.80%,11.1,9.6,556,61,NEW CITY,20,9
+610513,Air Force Academy High School,HS,Chicago,IL,60609,Not Enough Data,Average,49,Strong,60,Strong,60,Average,55,Average,54,Average,53,Average,49,93.30%,15.6,96.90%,,,302,34,ARMOUR SQUARE,11,9
+610212,Albany Park Multicultural Academy,MS,Chicago,IL,60625,Level 1,Strong,66,Weak,37,Strong,66,Strong,71,Average,50,Weak,46,Average,51,97.00%,2.3,96.90%,34.5,15.6,266,14,ALBANY PARK,39,17
+609720,Albert G Lane Technical High School,HS,Chicago,IL,60618,Level 1,Very Strong,88,NDA,NDA,Strong,62,Average,52,NDA,NDA,NDA,NDA,NDA,NDA,96.30%,2.1,96.20%,,,4368,5,NORTH CENTER,47,19
+610342,Albert R Sabin Elementary Magnet School,ES,Chicago,IL,60622,Level 3,Strong,67,NDA,NDA,Weak,30,Very Weak,18,NDA,NDA,NDA,NDA,NDA,NDA,94.70%,28.1,95.00%,18,12.8,620,24,WEST TOWN,1,14
+610524,Alcott High School for the Humanities,HS,Chicago,IL,60618,Not Enough Data,Strong,70,NDA,NDA,Strong,67,Average,51,NDA,NDA,Strong,57,Weak,43,92.70%,7.1,96.90%,,,232,5,NORTH CENTER,1,19
+610209,Alessandro Volta Elementary School,ES,Chicago,IL,60625,Level 2,Average,43,Strong,61,Weak,28,Weak,37,Average,56,Average,51,Average,53,96.40%,22.5,95.90%,19.9,14.2,1023,14,ALBANY PARK,39,17
+609799,Alexander Graham Bell Elementary School,ES,Chicago,IL,60618,Level 1,Very Strong,99,Very Strong,88,Strong,64,Average,46,Average,51,NDA,NDA,NDA,NDA,96.30%,6.3,95.90%,64,57.9,998,5,NORTH CENTER,47,19
+609947,Alexander Graham Elementary School,ES,Chicago,IL,60609,Level 2,Average,49,Weak,30,Weak,31,Weak,33,Average,41,Average,48,Average,51,92.50%,27.4,95.00%,20.8,11.1,476,61,NEW CITY,11,9
+609963,Alexander Hamilton Elementary School,ES,Chicago,IL,60657,Level 2,Strong,73,Strong,64,Strong,60,Average,59,Average,48,Strong,57,Strong,54,95.30%,12.5,97.40%,13.8,21.3,307,6,LAKE VIEW,32,19
+610210,Alexander von Humboldt Elementary School,ES,Chicago,IL,60622,Level 3,Weak,31,NDA,NDA,Weak,32,Average,45,NDA,NDA,Weak,43,Weak,44,92.50%,185.5,96.00%,8.6,5.7,398,24,WEST TOWN,26,14
+609808,Alex Haley Elementary Academy,ES,Chicago,IL,60628,Level 2,Weak,28,NDA,NDA,Average,58,Strong,60,NDA,NDA,Average,47,Average,49,94.90%,2.9,94.70%,11.6,1.9,525,49,ROSELAND,34,22
+610028,Alfred David Kohn Elementary School,ES,Chicago,IL,60628,Level 3,Very Weak,19,Weak,26,Weak,22,Very Weak,13,Very Weak,19,Average,47,Weak,45,90.10%,31.2,94.20%,5,5.6,428,49,ROSELAND,34,5
+610098,Alfred Nobel Elementary School,ES,Chicago,IL,60651,Level 2,Weak,37,Weak,34,Weak,37,Weak,35,Weak,36,Average,48,Average,51,94.60%,24.8,95.20%,9.7,7.1,801,23,HUMBOLDT PARK,37,25
+609788,Alice L Barnard Computer Math & Science Center Elementary School,ES,Chicago,IL,60643,Level 1,Average,46,NDA,NDA,Weak,39,Average,58,NDA,NDA,Strong,69,Average,51,95.60%,28.5,95.00%,18,15.7,274,72,BEVERLY,19,22
+610334,Al Raby High School,HS,Chicago,IL,60624,Level 3,Average,52,NDA,NDA,Average,51,Average,53,NDA,NDA,NDA,NDA,NDA,NDA,80.30%,14,95.10%,,,551,27,EAST GARFIELD PARK,28,11
+610131,Ambrose Plamondon Elementary School,ES,Chicago,IL,60608,Level 2,Average,45,NDA,NDA,Weak,32,Weak,28,NDA,NDA,Weak,45,Weak,41,96.90%,0.6,96.60%,12.3,11.4,171,29,NORTH LAWNDALE,28,10
+610316,Amelia Earhart Options for Knowledge Elementary School,ES,Chicago,IL,60617,Level 2,Very Strong,81,Strong,63,Strong,60,Strong,73,Average,54,NDA,NDA,NDA,NDA,96.30%,33.4,95.40%,27.5,26.4,264,48,CALUMET HEIGHTS,8,4
+609780,Ames Middle School,MS,Chicago,IL,60647,Level 2,Weak,38,Very Weak,17,Weak,27,Weak,35,Weak,26,Average,50,Average,50,94.30%,5.3,96.00%,14.5,3,586,22,LOGAN SQUARE,26,25
+610339,Amos Alonzo Stagg Elementary School,ES,Chicago,IL,60621,Level 3,Weak,23,Weak,35,Weak,35,Average,42,Average,42,Weak,44,Average,50,91.40%,34.3,95.50%,7.7,7.8,539,68,ENGLEWOOD,17,7
+610320,Ana Roque de Duprey Elementary School,ES,Chicago,IL,60622,Level 2,Average,57,NDA,NDA,Very Weak,12,Very Weak,14,NDA,NDA,Average,53,Strong,57,95.40%,77.5,95.60%,11.1,6.2,114,24,WEST TOWN,26,14
+609837,Andrew Carnegie Elementary School,ES,Chicago,IL,60637,Level 3,Average,48,Average,51,Weak,37,Strong,63,Weak,31,Average,49,Average,49,94.60%,6.2,94.40%,21.4,20.4,730,42,WOODLAWN,20,3
+610060,Andrew Jackson Elementary Language Academy,ES,Chicago,IL,60607,Level 1,Very Strong,86,NDA,NDA,Average,57,Average,46,NDA,NDA,NDA,NDA,NDA,NDA,97.40%,0.7,96.10%,70.4,62.7,556,28,NEAR WEST SIDE,2,12
+609869,Anna R. Langford Community Academy,ES,Chicago,IL,60636,Level 2,Weak,31,Weak,31,Average,54,Weak,32,Average,50,Average,53,Average,52,91.80%,29,95.40%,12.6,7.5,339,67,WEST ENGLEWOOD,16,7
+610084,Annie Keller Elementary Gifted Magnet School,ES,Chicago,IL,60655,Level 1,Very Strong,99,Very Strong,97,Very Strong,85,Very Strong,82,Very Strong,82,Strong,68,Strong,60,97.50%,4.9,96.50%,92.8,92.3,245,74,MOUNT GREENWOOD,19,22
+610229,A.N. Pritzker School,ES,Chicago,IL,60622,Level 1,Average,59,NDA,NDA,Average,58,Strong,61,NDA,NDA,NDA,NDA,NDA,NDA,94.60%,36.5,95.60%,37.2,34.5,669,24,WEST TOWN,1,14
+610277,Anthony Overton Elementary School,ES,Chicago,IL,60615,Level 3,Weak,32,NDA,NDA,Strong,64,Strong,76,NDA,NDA,Average,52,Strong,55,90.50%,24.9,94.90%,8.2,4.3,436,38,GRAND BOULEVARD,3,2
+609951,Ariel Elementary Community Academy,ES,Chicago,IL,60653,Level 2,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Average,51,Average,50,95.50%,5.4,96.00%,24.8,14.4,550,39,KENWOOD,4,2
+610161,Arna Wendell Bontemps Elementary School,ES,Chicago,IL,60636,Level 3,Weak,33,NDA,NDA,Average,48,Average,59,NDA,NDA,Average,53,Average,52,94.20%,31.2,95.80%,7.5,4.2,345,67,WEST ENGLEWOOD,16,7
+610171,Arnold Mireles Elementary Academy,ES,Chicago,IL,60617,Level 3,Weak,27,NDA,NDA,Average,43,Average,54,NDA,NDA,Average,48,Average,51,92.80%,11.8,95.20%,7.6,5.4,905,46,SOUTH CHICAGO,10,4
+610037,Arthur A Libby Elementary School,ES,Chicago,IL,60609,Level 3,Weak,36,NDA,NDA,Strong,60,Strong,60,NDA,NDA,Average,48,Average,52,90.80%,21.6,95.10%,4.8,3.9,539,61,NEW CITY,16,9
+609887,Arthur Dixon Elementary School,ES,Chicago,IL,60619,Level 2,Average,47,NDA,NDA,Average,47,Average,52,NDA,NDA,NDA,NDA,NDA,NDA,94.80%,32.2,95.60%,22,15.7,652,44,CHATHAM,6,6
+609836,Arthur E Canty Elementary School,ES,Chicago,IL,60634,Level 1,Very Strong,87,Strong,64,Strong,70,Strong,64,Average,47,Strong,66,Average,53,96.10%,2.3,96.10%,47.4,34.2,784,17,DUNNING,36,16
+610268,Arthur R Ashe Elementary School,ES,Chicago,IL,60619,Level 3,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Weak,39,Weak,46,87.90%,41.6,93.40%,9.2,2.8,459,44,CHATHAM,8,6
+609941,Asa Philip Randolph Elementary School,ES,Chicago,IL,60636,Level 3,Very Weak,15,NDA,NDA,Average,41,Average,48,NDA,NDA,Weak,45,Average,49,92.10%,43.5,95.30%,13.8,4.5,573,67,WEST ENGLEWOOD,17,7
+610287,Ashburn Community Elementary School,ES,Chicago,IL,60652,Level 2,Average,48,Strong,76,Average,52,Average,40,Strong,70,Average,51,Average,50,95.50%,28.5,97.10%,15.1,9.5,490,70,ASHBURN,18,8
+609820,Augustus H Burley Elementary School,ES,Chicago,IL,60657,Level 1,Very Strong,99,NDA,NDA,Strong,78,Strong,65,NDA,NDA,Strong,59,Average,49,96.50%,0.7,95.00%,54.2,53.3,572,6,LAKE VIEW,32,19
+400018,Austin Business and Entrepreneurship Academy High School,HS,Chicago,IL,60644,Level 3,Weak,38,NDA,NDA,Average,41,Weak,33,NDA,NDA,NDA,NDA,NDA,NDA,76.00%,12.4,0.00%,,,316,25,AUSTIN,28,15
+610169,Austin O Sexton Elementary School,ES,Chicago,IL,60637,Level 3,Weak,23,NDA,NDA,Weak,38,Weak,34,NDA,NDA,Weak,46,Weak,44,90.50%,8.6,94.10%,6.1,5.2,337,42,WOODLAWN,20,3
+610501,Austin Polytechnical Academy High School,HS,Chicago,IL,60644,Level 2,Weak,38,NDA,NDA,Average,45,Average,53,NDA,NDA,NDA,NDA,NDA,NDA,70.10%,21.5,95.20%,,,250,25,AUSTIN,28,15
+609786,Avalon Park Elementary School,ES,Chicago,IL,60619,Level 2,Weak,32,Weak,24,Weak,38,Weak,32,Very Weak,16,Weak,46,Weak,45,92.10%,52.1,96.40%,7.9,5.1,398,45,AVALON PARK,8,4
+609871,Barbara Vick Early Childhood & Family Center,ES,Chicago,IL,60655,NDA,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Strong,66,Strong,60,60.90%,0,95.50%,,,204,75,MORGAN PARK,19,22
+609922,Belmont-Cragin Elementary School,ES,Chicago,IL,60639,Level 2,Strong,75,Very Strong,81,Strong,67,Strong,66,Average,53,Strong,55,Strong,54,95.30%,1.3,96.80%,11,11,634,19,BELMONT CRAGIN,30,25
+609764,Benito Juarez Community Academy High School,HS,Chicago,IL,60608,Level 3,Average,46,Average,53,Average,44,Average,45,Average,48,NDA,NDA,NDA,NDA,83.70%,17.2,95.80%,,,1683,31,LOWER WEST SIDE,25,12
+610265,Benjamin Banneker Elementary School,ES,Chicago,IL,60621,Level 3,Weak,36,NDA,NDA,Weak,35,Average,58,NDA,NDA,NDA,NDA,NDA,NDA,91.30%,26.9,93.90%,7.9,1.5,302,68,ENGLEWOOD,6,7
+610290,Benjamin E Mays Elementary Academy,ES,Chicago,IL,60621,Level 2,Weak,27,Weak,23,Average,55,Average,48,Weak,37,NDA,NDA,NDA,NDA,95.50%,0.3,96.60%,17.4,9.6,301,68,ENGLEWOOD,16,7
+610076,Bernhard Moos Elementary School,ES,Chicago,IL,60647,Level 2,Average,50,Weak,34,Average,47,Weak,32,Weak,31,NDA,NDA,NDA,NDA,93.00%,45.5,96.30%,24,7.5,429,24,WEST TOWN,1,14
+610150,Betsy Ross Elementary School,ES,Chicago,IL,60637,Level 3,Weak,39,NDA,NDA,Average,51,Average,50,NDA,NDA,Weak,37,Weak,44,88.90%,64.1,93.90%,2.5,2,350,40,WASHINGTON PARK,20,3
+610175,Beulah Shoesmith Elementary School,ES,Chicago,IL,60615,Level 2,Average,45,Average,54,Average,40,Weak,39,Average,41,Average,49,Weak,45,94.70%,0.3,94.80%,10.8,19.6,325,39,KENWOOD,4,2
+610087,Blair Early Childhood Center,ES,Chicago,IL,60638,NDA,NDA,,Strong,64,NDA,,NDA,,Strong,66,Strong,58,Strong,65,80.20%,0.8,94.80%,,,137,64,CLEARING,23,8
+609969,Bret Harte Elementary School,ES,Chicago,IL,60637,Level 3,Strong,63,NDA,NDA,Strong,77,Strong,76,NDA,NDA,Average,47,Weak,44,94.20%,17.9,95.40%,27.5,21.9,340,41,HYDE PARK,5,2
+610106,Brian Piccolo Elementary Specialty School,ES,Chicago,IL,60651,Level 3,Weak,27,NDA,NDA,Weak,29,Weak,31,NDA,NDA,NDA,NDA,NDA,NDA,90.60%,65.8,95.00%,3.4,1.6,549,23,HUMBOLDT PARK,37,11
+610317,Brighton Park Elementary School,ES,Chicago,IL,60632,Level 1,Average,55,NDA,NDA,Average,49,Average,43,NDA,NDA,NDA,NDA,NDA,NDA,96.30%,2.6,95.90%,18.6,11.4,691,58,BRIGHTON PARK,12,9
+610381,Bronzeville Scholastic Academy High School,HS,Chicago,IL,60615,Level 3,Average,41,Weak,38,Average,42,Average,43,Very Weak,15,Average,51,Weak,43,92.30%,16.2,95.60%,,,550,38,GRAND BOULEVARD,3,2
+609821,Burnham Elementary Inclusive Academy,ES,Chicago,IL,60617,Level 1,Strong,61,Strong,77,Very Strong,85,Very Strong,99,Strong,71,Strong,54,Average,47,95.50%,29.4,96.90%,36.5,22,286,51,SOUTH DEERING,7,4
+609827,Burnside Elementary Scholastic Academy,ES,Chicago,IL,60619,Level 2,Average,51,NDA,NDA,Average,58,Strong,70,NDA,NDA,Average,48,Average,47,94.90%,8.9,94.90%,15.5,14.3,766,44,CHATHAM,6,6
+610353,Calmeca Academy of Fine Arts and Dual Language,ES,Chicago,IL,60632,Level 2,Average,58,Strong,67,Average,59,Strong,72,Average,55,Average,51,Strong,57,96.50%,1.9,96.90%,13.9,10.3,792,58,BRIGHTON PARK,12,9
+609729,Carl Schurz High School,HS,Chicago,IL,60641,Level 3,Average,48,Weak,36,Weak,36,Weak,29,Weak,31,NDA,NDA,NDA,NDA,81.20%,13.8,96.00%,,,2366,16,IRVING PARK,38,17
+610039,Carl von Linne Elementary School,ES,Chicago,IL,60618,Level 1,Strong,68,Average,49,Strong,66,Strong,75,Average,44,Average,50,Strong,55,95.80%,1.8,96.30%,24.8,15.1,644,21,AVONDALE,33,17
+610238,Carrie Jacobs Bond Elementary School,ES,Chicago,IL,60621,Level 2,Average,54,Average,49,Strong,67,Strong,63,Weak,32,Average,53,Average,52,91.70%,18.8,94.30%,7.9,5.6,343,68,ENGLEWOOD,17,7
+609839,Carroll-Rosenwald Specialty Elementary School,ES,Chicago,IL,60652,Level 2,Weak,35,NDA,NDA,Very Weak,12,Very Weak,12,NDA,NDA,Average,48,Average,47,94.80%,27.8,95.60%,11.8,9.1,537,70,ASHBURN,18,8
+610345,Carter G Woodson South Elementary School,ES,Chicago,IL,60653,Level 3,Weak,26,Weak,27,Very Weak,2,Very Weak,1,Average,41,Weak,44,Average,47,91.90%,70.5,94.70%,4.3,2.4,329,38,GRAND BOULEVARD,3,2
+610148,Cesar E Chavez Multicultural Academic Center Elementary School,ES,Chicago,IL,60609,Level 1,Average,54,Average,52,Strong,63,Average,52,Average,50,Weak,45,Average,51,95.10%,11.1,96.10%,19.8,8.4,915,61,NEW CITY,20,9
+609679,Charles Allen Prosser Career Academy High School,HS,Chicago,IL,60639,Level 2,Average,59,Average,47,Average,53,Average,51,Average,44,Weak,46,Weak,45,86.00%,9.7,94.40%,,,1415,19,BELMONT CRAGIN,37,25
+610005,Charles Evans Hughes Elementary School,ES,Chicago,IL,60623,Level 3,Average,42,NDA,NDA,Very Strong,82,Strong,72,NDA,NDA,NDA,NDA,NDA,NDA,94.40%,0,94.70%,12.2,4.7,315,29,NORTH LAWNDALE,24,10
+609879,Charles Gates Dawes Elementary School,ES,Chicago,IL,60652,Level 2,Average,44,Weak,38,Weak,27,Weak,30,Average,54,Average,50,Average,48,95.70%,35.6,95.60%,23.1,13.6,1032,70,ASHBURN,18,8
+609966,Charles G Hammond Elementary School,ES,Chicago,IL,60623,Level 2,Average,40,NDA,NDA,Average,41,Average,43,NDA,NDA,Weak,43,Weak,45,95.30%,8.5,95.20%,10.1,5.8,446,30,SOUTH LAWNDALE,12,10
+610366,Charles H Wacker Elementary School,ES,Chicago,IL,60643,Level 2,Weak,32,NDA,NDA,Weak,34,Weak,32,NDA,NDA,Average,50,Weak,41,93.40%,11.5,93.40%,17.4,15.9,246,73,WASHINGTON HEIGHTS,21,22
+610030,Charles Kozminski Elementary Community Academy,ES,Chicago,IL,60615,Level 3,Weak,36,NDA,NDA,Weak,35,Average,40,NDA,NDA,Weak,39,Weak,42,92.00%,55.6,94.40%,5,6.1,403,41,HYDE PARK,4,2
+609996,Charles N Holden Elementary School,ES,Chicago,IL,60608,Level 2,Average,53,Average,44,Average,50,Weak,35,Average,51,Strong,54,Average,50,94.90%,4.7,96.00%,16.7,11.5,600,60,BRIDGEPORT,11,9
+609833,Charles P Caldwell Academy of Math & Science Elementary School,ES,Chicago,IL,60617,Level 3,Weak,25,Weak,31,Average,40,Average,44,Weak,25,Weak,44,Average,47,92.70%,30.7,94.70%,10.9,6.8,291,45,AVALON PARK,8,4
+609732,Charles P Steinmetz Academic Centre High School,HS,Chicago,IL,60634,Level 3,Weak,26,Weak,35,Weak,29,Weak,34,Weak,32,NDA,NDA,NDA,NDA,79.20%,30.4,96.20%,,,1890,19,BELMONT CRAGIN,36,25
+609875,Charles R Darwin Elementary School,ES,Chicago,IL,60647,Level 2,Average,58,Average,40,Average,44,Weak,34,Average,46,Average,49,Strong,54,95.60%,33.8,96.20%,16,6.9,622,22,LOGAN SQUARE,26,14
+609986,Charles R Henderson Elementary School,ES,Chicago,IL,60636,Level 3,Very Weak,16,NDA,NDA,Weak,32,Weak,38,NDA,NDA,Weak,46,Weak,44,89.20%,80.6,93.60%,4.8,2.6,407,67,WEST ENGLEWOOD,15,7
+609813,Charles S Brownell Elementary School,ES,Chicago,IL,60637,Level 2,Weak,20,Very Weak,16,Strong,79,Very Strong,82,Very Weak,19,Average,48,Weak,46,92.80%,14.1,95.50%,12.9,8.8,310,69,GREATER GRAND CROSSING,20,3
+609883,Charles S Deneen Elementary School,ES,Chicago,IL,60619,Level 2,Average,55,Weak,33,Average,49,Average,51,Average,49,NDA,NDA,NDA,NDA,93.80%,39.5,97.10%,9.4,6.8,551,69,GREATER GRAND CROSSING,6,3
+610194,Charles Sumner  Math & Science Community Acad Elementary School,ES,Chicago,IL,60624,Level 3,Average,41,Weak,27,Average,44,Average,48,Weak,34,Average,48,Weak,46,93.90%,12.3,96.90%,13.1,9.7,430,26,WEST GARFIELD PARK,24,11
+609897,Charles W Earle Elementary School,ES,Chicago,IL,60636,Level 2,Weak,24,NDA,NDA,Strong,62,Strong,71,NDA,NDA,Average,53,Average,48,93.80%,16.9,94.60%,9.8,5.6,331,67,WEST ENGLEWOOD,15,7
+610248,Chicago Academy Elementary School,ES,Chicago,IL,60634,Level 1,Strong,66,NDA,NDA,Average,40,Weak,22,NDA,NDA,Average,47,Average,51,96.30%,6,96.10%,41.9,30.3,601,17,DUNNING,38,16
+610340,Chicago Academy High School,HS,Chicago,IL,60634,Level 2,Average,58,Weak,35,Average,57,Average,53,Average,57,NDA,NDA,NDA,NDA,93.10%,6.3,96.10%,,,502,17,DUNNING,38,16
+609753,Chicago High School for Agricultural Sciences,HS,Chicago,IL,60655,Level 1,Very Strong,87,Strong,77,Average,49,Average,47,Average,40,Average,52,Strong,55,92.80%,5.2,95.20%,,,579,74,MOUNT GREENWOOD,19,22
+609754,Chicago Military Academy High School,HS,Chicago,IL,60653,Level 2,Weak,32,NDA,NDA,Weak,23,Weak,35,NDA,NDA,NDA,NDA,NDA,NDA,90.30%,28.2,95.60%,,,483,35,DOUGLAS,2,2
+609674,Chicago Vocational Career Academy High School,HS,Chicago,IL,60617,Level 3,Weak,27,Average,43,Weak,21,Weak,30,Weak,39,NDA,NDA,NDA,NDA,68.80%,33.3,94.60%,,,833,45,AVALON PARK,8,4
+609899,Christian Ebinger Elementary School,ES,Chicago,IL,60631,Level 1,Strong,78,Strong,72,Strong,66,Average,50,Strong,62,Average,52,Weak,43,95.90%,9.3,95.20%,50.6,40.2,650,9,EDISON PARK,41,16
+609705,Christian Fenger Academy High School,HS,Chicago,IL,60628,Level 3,Weak,36,Weak,28,Average,41,Weak,32,Average,42,NDA,NDA,NDA,NDA,74.40%,49.8,95.40%,,,688,49,ROSELAND,34,22
+609863,Christopher Columbus Elementary School,ES,Chicago,IL,60622,Level 1,Strong,66,NDA,NDA,Average,57,Average,55,NDA,NDA,Strong,54,Average,48,95.50%,2.4,96.90%,42,30.5,309,24,WEST TOWN,32,13
+609790,Clara Barton Elementary School,ES,Chicago,IL,60620,Level 3,Weak,25,Average,42,Weak,28,Weak,34,Average,59,Average,51,Average,49,91.70%,25.3,96.40%,8.1,5.7,602,71,AUBURN GRESHAM,18,6
+610347,Claremont Academy Elementary School,ES,Chicago,IL,60636,Level 2,Weak,36,Weak,33,Average,50,Average,51,Average,59,Weak,46,Average,52,92.50%,64.2,96.20%,12.1,8.1,531,66,CHICAGO LAWN,15,8
+610499,Collins Academy High School,HS,Chicago,IL,60623,Level 2,Strong,60,Average,42,Average,51,Average,46,Average,48,Strong,54,Strong,56,91.40%,2.9,96.60%,,,409,29,NORTH LAWNDALE,24,10
+610170,Columbia Explorers Elementary Academy,ES,Chicago,IL,60632,Level 2,Average,59,Strong,64,Average,59,Strong,63,Strong,72,Average,52,Strong,55,95.40%,8.9,97.10%,17.1,13.8,1038,58,BRIGHTON PARK,14,8
+610004,Countee Cullen Elementary School,ES,Chicago,IL,60628,Level 3,Very Weak,14,NDA,NDA,Weak,28,Weak,34,NDA,NDA,NDA,NDA,NDA,NDA,94.10%,36.9,96.30%,9.7,8.1,233,49,ROSELAND,9,5
+609781,Crispus Attucks Elementary School,ES,Chicago,IL,60609,Level 3,Average,45,Strong,76,Strong,64,Average,57,Very Strong,85,NDA,NDA,NDA,NDA,95.20%,12.5,93.50%,7.6,10,274,38,GRAND BOULEVARD,3,2
+609873,Crown Community Academy of Fine Arts Center Elementary School,ES,Chicago,IL,60623,Level 2,Weak,27,Weak,39,Average,51,Average,52,Weak,31,Average,49,Average,51,92.50%,100.5,96.70%,3.9,8.8,298,29,NORTH LAWNDALE,24,10
+610063,Cyrus H McCormick Elementary School,ES,Chicago,IL,60623,Level 1,NDA,,Strong,60,NDA,,NDA,,Average,54,Average,52,Strong,56,95.90%,4.7,95.90%,25.2,10.3,894,30,SOUTH LAWNDALE,22,10
+609804,Daniel Boone Elementary School,ES,Chicago,IL,60645,Level 1,Average,52,Average,50,Average,47,Average,48,Average,53,Average,50,Average,49,95.50%,10.5,95.40%,22,17.6,752,2,WEST RIDGE,50,24
+610083,Daniel C Beard Elementary School,ES,Chicago,IL,60656,Not Enough Data,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Strong,57,Strong,58,91.90%,0,94.30%,,,160,10,NORWOOD PARK,41,16
+610380,Daniel Hale Williams Prep School of Medicine,HS,Chicago,IL,60615,Level 2,Average,50,NDA,NDA,Average,45,Average,54,NDA,NDA,NDA,NDA,NDA,NDA,91.30%,5.4,96.70%,23.7,8.5,324,38,GRAND BOULEVARD,3,2
+609870,Daniel J Corkery Elementary School,ES,Chicago,IL,60623,Level 2,Weak,39,NDA,NDA,Weak,31,Weak,29,NDA,NDA,NDA,NDA,NDA,NDA,94.70%,18.1,97.20%,13.6,8.2,631,30,SOUTH LAWNDALE,22,10
+609835,Daniel R Cameron Elementary School,ES,Chicago,IL,60651,Level 3,Average,42,NDA,NDA,Average,49,Average,50,NDA,NDA,Weak,46,Weak,46,92.60%,153.9,96.20%,10.3,5.9,828,23,HUMBOLDT PARK,26,25
+610223,Daniel S Wentworth Elementary School,ES,Chicago,IL,60621,Level 3,Weak,30,Weak,32,Weak,34,Weak,36,Weak,32,NDA,NDA,NDA,NDA,91.60%,73.8,95.90%,5.5,1.5,365,68,ENGLEWOOD,17,7
+610221,Daniel Webster Elementary School,ES,Chicago,IL,60624,Level 1,Average,48,Average,56,Very Strong,81,Strong,66,Average,44,Weak,45,Strong,55,94.80%,5.7,97.20%,25.9,21,370,26,WEST GARFIELD PARK,24,11
+609704,David G Farragut Career Academy High School,HS,Chicago,IL,60623,Level 2,Average,43,NDA,NDA,Average,42,Weak,32,NDA,NDA,NDA,NDA,NDA,NDA,86.10%,18.6,95.20%,,,1456,30,SOUTH LAWNDALE,22,10
+610402,DeVry University Advantage Academy High School,HS,Chicago,IL,60618,Level 1,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Strong,58,Strong,55,96.70%,0,94.50%,,,200,5,NORTH CENTER,47,19
+609885,Dewey Elementary Academy of Fine Arts,ES,Chicago,IL,60609,Level 3,Average,41,NDA,NDA,Average,42,Weak,35,NDA,NDA,Average,52,Strong,58,90.70%,26.3,95.50%,3.3,0.5,357,61,NEW CITY,3,9
+609859,DeWitt Clinton Elementary School,ES,Chicago,IL,60659,Level 1,Average,47,Average,41,Average,47,Average,52,Weak,36,NDA,NDA,NDA,NDA,95.30%,14.8,95.40%,33.5,21.8,1139,2,WEST RIDGE,50,24
+610515,Disney II Magnet School,ES,Chicago,IL,60641,Level 1,NDA,,Very Strong,99,NDA,,NDA,,Average,53,Strong,62,Strong,58,97.30%,0,96.50%,57.8,52,363,16,IRVING PARK,38,17
+610077,Donald Morrill Math & Science Elementary School,ES,Chicago,IL,60629,Level 3,Weak,28,Weak,25,Weak,32,Weak,39,Weak,32,Weak,44,Average,49,93.40%,19.6,94.80%,10,5.7,823,66,CHICAGO LAWN,15,8
+610198,Douglas Taylor Elementary School,ES,Chicago,IL,60617,Level 2,Weak,34,NDA,NDA,Weak,20,Very Weak,1,NDA,NDA,Weak,42,Weak,45,95.10%,16.6,94.30%,12.4,9.9,632,52,EAST SIDE,10,4
+610533,Dr Jorge Prieto Math and Science,ES,Chicago,IL,60639,Not Enough Data,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Average,52,Strong,58,94.70%,7,96.90%,14.6,8.6,1001,19,BELMONT CRAGIN,37,25
+609751,Dr  Martin Luther King  Jr  College Prep High School,HS,Chicago,IL,60653,Level 1,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Strong,56,Average,52,92.90%,4.4,96.30%,,,915,39,KENWOOD,4,2
+610266,Dumas Technology Academy,ES,Chicago,IL,60637,Level 3,Very Weak,19,NDA,NDA,Weak,25,Average,49,NDA,NDA,Average,48,Average,53,92.50%,38.4,95.60%,8.3,5.8,381,42,WOODLAWN,5,3
+610188,Dunne Technology Academy,ES,Chicago,IL,60628,Level 1,Average,46,Average,53,Strong,65,Strong,71,Average,59,Average,49,Average,47,94.60%,22.8,96.40%,24.7,17.2,310,49,ROSELAND,34,22
+610352,Durkin Park Elementary School,ES,Chicago,IL,60652,Level 1,Strong,61,Strong,74,Average,57,Average,58,Strong,74,Average,53,Weak,38,95.40%,0.7,95.80%,22,16.3,543,70,ASHBURN,18,8
+610254,Dvorak Technology Academy,ES,Chicago,IL,60623,Level 3,Average,46,Weak,22,Strong,66,Strong,69,Very Weak,13,NDA,NDA,NDA,NDA,94.20%,4.4,95.40%,11,10.4,556,29,NORTH LAWNDALE,24,10
+609736,Dyett High School,HS,Chicago,IL,60615,Level 3,Weak,27,Very Weak,18,Weak,35,Average,47,Weak,25,NDA,NDA,NDA,NDA,62.50%,24.4,93.50%,,,318,40,WASHINGTON PARK,4,2
+610132,Edgar Allan Poe Elementary Classical School,ES,Chicago,IL,60628,Level 1,Very Strong,99,Weak,33,Strong,66,Very Strong,88,Average,41,Strong,55,Average,47,97.60%,0,97.20%,78.8,79.6,192,50,PULLMAN,9,5
+609901,Edgebrook Elementary School,ES,Chicago,IL,60646,Level 1,Very Strong,99,Very Strong,99,Average,51,Average,53,Strong,70,Strong,56,Weak,39,96.90%,3.4,96.60%,60.2,56.8,468,12,FOREST GLEN,41,16
+610523,Edison Park Elementary School,ES,Chicago,IL,60631,Level 1,Very Strong,95,NDA,NDA,Average,52,Average,49,NDA,NDA,Strong,56,Weak,46,96.10%,6.9,96.60%,27.7,32.6,431,10,NORWOOD PARK,41,16
+609819,Edmond Burke Elementary School,ES,Chicago,IL,60615,Level 3,Very Weak,1,NDA,NDA,Very Weak,13,Weak,22,NDA,NDA,Average,48,Average,48,89.30%,82,95.50%,7.9,4.3,244,40,WASHINGTON PARK,3,2
+609815,Edward A Bouchet Math & Science Academy Elementary School,ES,Chicago,IL,60649,Level 3,Weak,33,Average,57,Average,55,Average,50,Average,58,Average,50,Average,48,92.90%,28,95.90%,5.6,7.6,783,43,SOUTH SHORE,5,3
+610246,Edward Beasley Elementary Magnet Academic Center,ES,Chicago,IL,60609,Level 1,Average,47,NDA,NDA,Weak,34,Average,48,NDA,NDA,Weak,42,Weak,45,95.00%,10.3,94.70%,26.4,21.3,1365,40,WASHINGTON PARK,3,2
+609881,Edward C Delano Elementary School,ES,Chicago,IL,60624,Level 2,Weak,38,Strong,64,Strong,66,Average,52,Strong,79,Strong,55,Strong,58,93.40%,20.3,94.70%,6.8,10.9,414,26,WEST GARFIELD PARK,28,11
+609862,Edward Coles Elementary Language Academy,ES,Chicago,IL,60617,Level 2,Weak,22,Average,43,Average,40,Average,54,Average,53,Average,50,Average,51,95.10%,24.9,95.00%,16.7,5.7,554,46,SOUTH CHICAGO,7,4
+609909,Edward Everett Elementary School,ES,Chicago,IL,60608,Level 2,NDA,,Strong,66,NDA,,NDA,,Average,45,NDA,NDA,NDA,NDA,95.30%,2.4,97.70%,13.6,13.6,321,59,MCKINLEY PARK,11,9
+610012,Edward Jenner Elementary Academy of the Arts,ES,Chicago,IL,60610,Level 3,Average,50,Weak,34,Strong,62,Average,41,Weak,26,Average,49,Average,53,88.90%,16,94.80%,8.2,1.3,314,8,NEAR NORTH SIDE,27,18
+609904,Edward K Ellington Elementary School,ES,Chicago,IL,60644,Level 2,Weak,30,NDA,NDA,Weak,37,Average,55,NDA,NDA,Average,49,Average,50,93.30%,17.4,97.30%,16.1,8,377,25,AUSTIN,29,15
+610006,Edward N Hurley Elementary School,ES,Chicago,IL,60629,Level 1,Strong,77,Average,56,Average,50,Average,49,Average,54,Average,49,Weak,46,95.40%,12.2,94.90%,16.4,11.7,830,65,WEST LAWN,13,8
+609735,Edward Tilden Career Community Academy High School,HS,Chicago,IL,60609,Level 2,Weak,34,Average,57,Average,45,Weak,37,Weak,35,Average,51,Average,47,78.40%,13,95.20%,,,461,61,NEW CITY,11,9
+610315,Edward White Elementary Career Academy,ES,Chicago,IL,60643,Level 2,Weak,27,NDA,NDA,Average,44,Average,48,NDA,NDA,Average,51,Weak,46,93.80%,31,96.70%,7.4,7.4,138,53,WEST PULLMAN,34,5
+609708,Edwin G Foreman High School,HS,Chicago,IL,60641,Level 3,Weak,26,NDA,NDA,Weak,28,Weak,23,NDA,NDA,NDA,NDA,NDA,NDA,84.30%,10.3,94.80%,,,1716,15,PORTAGE PARK,30,16
+609913,Elaine O Goodlow Elementary Magnet School,ES,Chicago,IL,60636,Level 3,Average,44,Average,42,Average,52,Average,56,Weak,28,Weak,46,Weak,46,91.60%,47.5,96.00%,9.8,8.6,419,67,WEST ENGLEWOOD,15,7
+610233,Elihu Yale Elementary School,ES,Chicago,IL,60621,Level 3,Weak,29,Weak,35,Average,43,Average,50,NDA,NDA,Average,49,Average,47,89.70%,67.2,97.00%,4.5,3.2,182,69,GREATER GRAND CROSSING,6,7
+610227,Eli Whitney Elementary School,ES,Chicago,IL,60623,Level 2,Average,44,NDA,NDA,Average,49,Average,53,NDA,NDA,NDA,NDA,NDA,NDA,95.80%,11.6,95.20%,15,9.4,1133,30,SOUTH LAWNDALE,22,10
+610195,Elizabeth H Sutherland Elementary School,ES,Chicago,IL,60643,Level 2,Very Strong,86,NDA,NDA,Strong,64,Average,59,NDA,NDA,Average,50,Weak,40,95.60%,6.8,96.20%,37.2,35.7,762,72,BEVERLY,19,22
+610119,Elizabeth Peabody Elementary School,ES,Chicago,IL,60622,Level 2,Average,51,Average,58,Average,50,Strong,61,Average,55,Average,52,Average,49,95.20%,7.6,97.00%,9.1,5.9,289,24,WEST TOWN,27,13
+609852,Eliza Chappell Elementary School,ES,Chicago,IL,60625,Level 1,Strong,70,Strong,65,Average,53,Average,51,Average,48,Average,50,Average,52,95.10%,2.9,96.70%,19.6,17.6,451,4,LINCOLN SQUARE,47,20
+610235,Ella Flagg Young Elementary School,ES,Chicago,IL,60651,Level 2,Weak,31,NDA,NDA,Average,44,Average,50,NDA,NDA,Weak,44,Average,47,94.30%,3,95.40%,9.1,8,1111,25,AUSTIN,29,25
+609682,Ellen H Richards Career Academy High School,HS,Chicago,IL,60609,Level 2,Weak,30,Weak,23,Weak,32,Very Weak,19,Weak,34,Weak,43,Average,47,90.60%,17.3,95.70%,,,473,61,NEW CITY,16,9
+610073,Ellen Mitchell Elementary School,ES,Chicago,IL,60612,Level 1,Very Strong,99,Strong,64,Very Strong,95,Very Strong,95,Very Strong,90,Strong,56,Strong,54,95.50%,12.2,97.70%,30.1,27.3,344,24,WEST TOWN,26,13
+609712,Emil G Hirsch Metropolitan High School,HS,Chicago,IL,60619,Level 3,Very Weak,13,Average,46,Weak,28,Weak,28,Average,50,NDA,NDA,NDA,NDA,84.80%,47.1,95.40%,,,458,69,GREATER GRAND CROSSING,8,6
+609973,Emiliano Zapata Elementary Academy,ES,Chicago,IL,60623,Level 2,Strong,60,Average,52,Average,43,Average,42,Strong,79,Weak,46,Average,49,96.60%,2.8,96.80%,21.6,13.7,988,30,SOUTH LAWNDALE,22,10
+610065,Emmett Louis Till Math and Science Academy,ES,Chicago,IL,60637,Level 3,Weak,31,Weak,31,Average,47,Average,40,Average,42,Average,47,Average,48,88.00%,95.7,93.30%,3.2,3.5,471,42,WOODLAWN,20,3
+609916,Enrico Fermi Elementary School,ES,Chicago,IL,60637,Level 3,Weak,30,Average,42,Strong,65,Strong,63,Average,47,NDA,NDA,NDA,NDA,89.90%,101.2,95.40%,0.6,2.6,238,43,SOUTH SHORE,5,3
+610203,Enrico Tonti Elementary School,ES,Chicago,IL,60629,Level 2,NDA,,Average,44,NDA,,NDA,,Average,54,Average,49,Average,49,95.80%,2.1,97.20%,17.5,13,1021,63,GAGE PARK,14,8
+610543,Eric Solorio Academy High School,HS,Chicago,IL,60632,Not Enough Data,Strong,67,Average,54,Average,53,Strong,63,Strong,64,Average,53,Strong,56,92.20%,3,0.00%,,,581,63,GAGE PARK,14,8
+610137,Ernst Prussing Elementary School,ES,Chicago,IL,60630,Level 2,Strong,71,NDA,NDA,Average,49,Average,42,NDA,NDA,Weak,43,Weak,44,95.40%,23.4,96.00%,31.4,24.5,672,15,PORTAGE PARK,45,16
+609908,Esmond Elementary School,ES,Chicago,IL,60643,Level 2,Weak,36,NDA,NDA,Average,49,Average,43,NDA,NDA,Average,49,Average,50,92.90%,34,95.70%,8.9,7.7,342,75,MORGAN PARK,19,22
+609918,Eugene Field Elementary School,ES,Chicago,IL,60626,Level 2,Average,42,Weak,33,Average,47,Weak,37,Very Weak,8,Weak,44,Average,53,96.80%,10,96.70%,9.8,7.9,375,1,ROGERS PARK,49,24
+609874,Everett McKinley Dirksen Elementary School,ES,Chicago,IL,60656,Level 1,Average,44,NDA,NDA,Very Weak,12,Very Weak,1,NDA,NDA,NDA,NDA,NDA,NDA,95.90%,2.7,96.20%,32.8,25.5,786,76,OHARE,41,16
+610319,Evergreen Academy Middle School,MS,Chicago,IL,60609,Level 2,Strong,60,Average,58,Average,47,Average,44,Strong,65,Weak,43,Average,48,96.10%,5.5,97.40%,11.5,9.3,389,59,MCKINLEY PARK,11,9
+610057,Fairfield Elementary Academy,ES,Chicago,IL,60629,Level 3,Weak,31,Weak,24,Average,41,Weak,34,Weak,25,NDA,NDA,NDA,NDA,93.40%,43.4,93.30%,4.1,4.3,604,66,CHICAGO LAWN,15,8
+610541,Federico Garcia Lorca Elementary School,ES,Chicago,IL,60618,Not Enough Data,Average,53,Average,58,Average,53,Average,58,Very Strong,82,Average,51,Strong,59,96.80%,43.8,0.00%,8.9,7.5,860,21,AVONDALE,30,17
+610120,Ferdinand Peck Elementary School,ES,Chicago,IL,60629,Level 1,Average,51,Average,43,Average,43,Average,47,Weak,37,Weak,44,Weak,43,96.30%,1.2,97.20%,23.2,13.8,1560,62,WEST ELSDON,13,8
+609917,Fernwood Elementary School,ES,Chicago,IL,60628,Level 3,Weak,29,Weak,37,Very Weak,17,Average,43,Average,50,Average,48,Average,53,93.40%,29,96.10%,12.4,7.8,344,73,WASHINGTON HEIGHTS,34,22
+610258,Florence B Price Elementary School,ES,Chicago,IL,60653,Level 3,Weak,20,NDA,NDA,Weak,37,Average,46,NDA,NDA,Weak,46,Average,47,90.00%,156.6,95.20%,0,0.7,112,39,KENWOOD,4,2
+610096,Florence Nightingale Elementary School,ES,Chicago,IL,60632,Level 2,Weak,35,Average,54,Average,40,Average,48,Strong,72,Average,48,Average,48,95.60%,9.4,95.80%,11.3,8.2,1382,63,GAGE PARK,14,9
+609924,Fort Dearborn Elementary School,ES,Chicago,IL,60620,Level 2,Weak,34,NDA,NDA,Strong,61,Strong,71,NDA,NDA,Average,47,Average,50,93.40%,24.5,95.90%,25.2,14.1,478,73,WASHINGTON HEIGHTS,21,22
+609927,Foster Park Elementary School,ES,Chicago,IL,60620,Level 3,Very Weak,11,Average,41,Weak,20,Weak,22,Average,46,Weak,46,Average,48,93.70%,33.6,94.70%,8,5.7,418,71,AUBURN GRESHAM,18,6
+610215,Francisco I Madero Middle School,MS,Chicago,IL,60623,Level 2,Average,49,Weak,32,Average,48,Average,47,Weak,34,Average,47,Average,52,95.10%,7.1,97.00%,15.1,4.9,314,30,SOUTH LAWNDALE,22,10
+610067,Francis M McKay Elementary School,ES,Chicago,IL,60629,Level 3,Weak,23,Average,48,Weak,37,Average,54,Strong,61,Average,48,Average,51,93.50%,9.1,95.10%,5.7,5.7,891,66,CHICAGO LAWN,18,8
+610114,Francis Parkman Elementary School,ES,Chicago,IL,60609,Level 3,Weak,38,Weak,25,Average,45,Weak,39,Weak,28,NDA,NDA,NDA,NDA,90.60%,20.7,95.30%,4.6,3.1,224,37,FULLER PARK,3,9
+610020,Francis Scott Key Elementary School,ES,Chicago,IL,60644,Level 2,Weak,37,NDA,NDA,Average,49,Strong,64,NDA,NDA,Weak,44,Weak,45,91.90%,39.6,94.00%,11.3,5.9,301,25,AUSTIN,29,15
+610112,Francis W Parker Elementary Community Academy,ES,Chicago,IL,60621,Level 2,Weak,30,NDA,NDA,Average,53,Average,57,NDA,NDA,Average,48,Average,51,91.90%,39,94.90%,8.4,6.5,808,68,ENGLEWOOD,6,7
+609800,Frank I Bennett Elementary School,ES,Chicago,IL,60628,Level 3,Average,46,Average,46,Average,55,Strong,66,Average,56,Average,47,Weak,45,92.50%,6.5,95.90%,13.7,8.4,504,49,ROSELAND,9,5
+609939,Frank L Gillespie Elementary School,ES,Chicago,IL,60619,Level 2,Weak,27,NDA,NDA,Weak,30,Average,45,NDA,NDA,NDA,NDA,NDA,NDA,91.90%,2.1,96.30%,7.6,5.6,609,49,ROSELAND,6,6
+609926,Franklin Elementary Fine Arts Center,ES,Chicago,IL,60610,Level 1,Very Strong,87,NDA,NDA,Strong,60,Average,55,NDA,NDA,Strong,58,Average,48,95.90%,5.6,95.30%,55.1,50.2,363,8,NEAR NORTH SIDE,43,18
+609958,Frank W Gunsaulus Elementary Scholastic Academy,ES,Chicago,IL,60632,Level 1,Average,46,Weak,38,Weak,30,Average,45,Very Weak,14,Average,49,Average,48,96.60%,87.3,96.00%,24,18.1,867,58,BRIGHTON PARK,14,9
+610144,Frank W Reilly Elementary School,ES,Chicago,IL,60618,Level 2,Average,48,NDA,NDA,Weak,33,Weak,34,NDA,NDA,Average,48,Average,51,97.00%,8.7,96.70%,15.5,9.8,1195,21,AVONDALE,35,17
+610165,Franz Peter Schubert Elementary School,ES,Chicago,IL,60639,Level 3,NDA,,Weak,31,NDA,,NDA,,Weak,26,Average,47,Average,49,95.80%,2.1,97.00%,10.6,10.2,949,19,BELMONT CRAGIN,31,25
+610503,Frazier Prospective IB Magnet Elementary School,ES,Chicago,IL,60624,Level 1,Strong,60,Average,55,Very Strong,84,Strong,72,Average,55,Strong,66,Strong,65,96.80%,7.2,96.60%,37.6,25.4,220,29,NORTH LAWNDALE,24,11
+609854,Frederic Chopin Elementary School,ES,Chicago,IL,60622,Level 1,Very Strong,86,Very Strong,99,Very Strong,99,Very Strong,99,Very Strong,99,Average,49,Average,49,96.90%,1.7,96.00%,57.6,47.6,269,24,WEST TOWN,1,13
+610245,Frederick A Douglass Academy High School,HS,Chicago,IL,60644,Level 3,Average,44,NDA,NDA,Weak,39,Weak,37,NDA,NDA,Average,50,Weak,44,79.20%,28,94.70%,,,354,25,AUSTIN,29,15
+609930,Frederick Funston Elementary School,ES,Chicago,IL,60647,Level 3,Very Weak,16,NDA,NDA,Very Weak,14,Very Weak,16,NDA,NDA,Weak,40,Average,47,94.70%,16.8,95.40%,12.2,5.8,619,22,LOGAN SQUARE,26,25
+610163,Frederick Stock Elementary School,ES,Chicago,IL,60631,NDA,NDA,,Very Strong,99,NDA,,NDA,,Very Strong,81,Strong,69,Strong,63,72.40%,0,95.70%,,,260,9,EDISON PARK,41,16
+610010,Friedrich Ludwig Jahn Elementary School,ES,Chicago,IL,60657,Level 2,Strong,72,NDA,NDA,Strong,60,Average,59,NDA,NDA,Average,50,Weak,46,94.70%,19.9,94.70%,23.9,15.2,495,5,NORTH CENTER,32,19
+609737,Friedrich W von Steuben Metropolitan Science High School,HS,Chicago,IL,60625,Level 2,Strong,70,Weak,39,Average,42,Average,51,Weak,29,NDA,NDA,NDA,NDA,87.00%,4,95.60%,,,1636,13,NORTH PARK,39,17
+609709,Gage Park High School,HS,Chicago,IL,60629,Level 3,Very Weak,14,Average,43,Weak,29,Weak,37,Weak,35,NDA,NDA,NDA,NDA,72.50%,19.5,94.00%,,,1052,63,GAGE PARK,16,8
+610009,Galileo Math & Science Scholastic Academy Elementary School,ES,Chicago,IL,60607,Level 1,Strong,65,Average,52,Average,40,Average,42,Weak,33,Average,49,Average,50,95.00%,3.1,97.00%,26.5,22.3,606,28,NEAR WEST SIDE,25,12
+610072,Garrett A Morgan Elementary School,ES,Chicago,IL,60620,Level 3,Weak,28,Weak,38,Average,58,Average,55,Weak,36,Average,47,Weak,46,92.00%,10,94.80%,7.9,3.2,237,71,AUBURN GRESHAM,21,6
+610293,Genevieve Melody Elementary School,ES,Chicago,IL,60624,Level 3,Strong,61,NDA,NDA,Strong,65,Strong,77,NDA,NDA,NDA,NDA,NDA,NDA,92.10%,26,96.00%,4.2,6.3,315,26,WEST GARFIELD PARK,24,11
+609779,George Armstrong International Studies Elementary School,ES,Chicago,IL,60645,Level 1,Average,59,Average,57,Average,59,Strong,64,Average,45,NDA,NDA,NDA,NDA,96.30%,8.1,96.30%,30.4,19.5,1509,2,WEST RIDGE,50,24
+610062,George B McClellan Elementary School,ES,Chicago,IL,60609,Level 2,Average,49,NDA,NDA,Weak,33,Average,40,NDA,NDA,Average,53,Average,47,93.20%,7.8,96.00%,22.7,21.3,283,60,BRIDGEPORT,11,9
+610196,George B Swift Elementary Specialty School,ES,Chicago,IL,60660,Level 2,Strong,61,Average,53,Strong,62,Strong,60,Average,59,Average,49,Strong,54,96.30%,6,95.80%,25.4,16.2,709,77,EDGEWATER,48,20
+609849,George F Cassell Elementary School,ES,Chicago,IL,60655,Level 2,Strong,76,Strong,67,Average,57,Weak,36,Strong,61,Average,52,Weak,46,94.40%,13.8,95.10%,24.9,24.5,358,74,MOUNT GREENWOOD,19,22
+609761,George H Corliss High School,HS,Chicago,IL,60628,Level 3,Weak,33,Average,52,Average,40,Average,48,Average,54,NDA,NDA,NDA,NDA,71.30%,23.4,95.20%,,,621,50,PULLMAN,9,5
+610305,George Leland Elementary School,ES,Chicago,IL,60644,Level 3,NDA,,Strong,71,NDA,,NDA,,Strong,77,Strong,60,Average,53,92.60%,3.3,94.90%,46.2,20,182,25,AUSTIN,29,15
+610048,George Manierre Elementary School,ES,Chicago,IL,60610,Level 3,Average,43,NDA,NDA,Average,49,Average,40,NDA,NDA,Weak,42,Weak,44,91.00%,44,94.80%,4.6,4.7,396,8,NEAR NORTH SIDE,27,18
+610139,George M Pullman Elementary School,ES,Chicago,IL,60628,Level 2,Average,59,NDA,NDA,Strong,66,Strong,75,NDA,NDA,Average,50,Average,49,93.50%,14.6,96.20%,14.8,17.8,259,50,PULLMAN,9,5
+609795,George Rogers Clark Elementary School,ES,Chicago,IL,60644,Level 1,Weak,39,NDA,NDA,Weak,32,Weak,36,NDA,NDA,Average,47,Average,51,93.90%,14.4,96.40%,22,15.3,297,25,AUSTIN,29,15
+609760,George Washington Carver Military Academy High School,HS,Chicago,IL,60627,Level 2,Average,53,NDA,NDA,Weak,37,Weak,34,NDA,NDA,NDA,NDA,NDA,NDA,91.60%,8.9,96.40%,,,532,54,RIVERDALE,9,5
+609845,George Washington Carver Primary School,ES,Chicago,IL,60827,Level 3,Weak,25,NDA,NDA,Weak,33,Weak,30,NDA,NDA,Average,52,Strong,57,90.90%,15.6,94.70%,9.4,8,546,54,RIVERDALE,9,5
+610219,George Washington Elementary School,ES,Chicago,IL,60617,Level 1,Average,58,Strong,61,Weak,33,Average,43,Strong,76,Average,52,Average,51,95.50%,5.6,95.90%,30.4,24.7,813,52,EAST SIDE,10,4
+609739,George Washington High School,HS,Chicago,IL,60617,Level 2,Average,46,Average,53,Weak,36,Weak,36,Average,46,NDA,NDA,NDA,NDA,80.20%,12.7,95.10%,,,1524,52,EAST SIDE,10,4
+609900,George W Curtis Elementary School,ES,Chicago,IL,60628,Level 3,Weak,23,NDA,NDA,Average,43,Average,58,NDA,NDA,Strong,68,Strong,70,93.80%,18.2,98.10%,10.1,3.8,504,49,ROSELAND,9,5
+609693,George Westinghouse High School,HS,Chicago,IL,60624,Not Enough Data,Strong,74,Strong,72,Strong,77,Very Strong,80,Strong,71,Strong,54,Strong,60,93.60%,2,96.80%,,,828,23,HUMBOLDT PARK,28,11
+610202,George W Tilton Elementary School,ES,Chicago,IL,60624,Level 3,Very Weak,6,Weak,25,Weak,30,Average,41,Average,44,Average,51,Average,49,91.40%,65.5,95.10%,10,3.5,321,26,WEST GARFIELD PARK,28,11
+609920,Gerald Delgado Kanoon Elementary Magnet School,ES,Chicago,IL,60623,Level 3,Average,44,Weak,37,Average,48,Average,48,Average,43,Average,47,Average,49,95.90%,3.3,95.60%,8,6.6,713,30,SOUTH LAWNDALE,24,10
+610187,Graeme Stewart Elementary School,ES,Chicago,IL,60640,Level 2,Average,49,NDA,NDA,Average,46,Average,57,NDA,NDA,Average,47,Average,52,95.20%,77,96.10%,11.9,9.7,280,3,UPTOWN,46,19
+610285,Granville T Woods Math & Science Academy Elementary School,ES,Chicago,IL,60636,Level 2,Weak,35,NDA,NDA,Average,43,Weak,31,NDA,NDA,Average,48,Average,49,91.90%,41.5,95.20%,11.1,6.5,402,67,WEST ENGLEWOOD,16,7
+610383,Greater Lawndale High School For Social Justice,HS,Chicago,IL,60623,Level 3,Average,43,Strong,72,Average,46,Average,44,Strong,65,Average,53,Weak,46,87.50%,16.4,95.10%,,,371,30,SOUTH LAWNDALE,22,10
+609857,Grover Cleveland Elementary School,ES,Chicago,IL,60618,Level 1,Strong,64,Average,43,Average,58,Average,47,Average,44,Average,49,Average,48,95.00%,6.1,96.30%,23.4,15.8,688,16,IRVING PARK,33,17
+610241,Guglielmo Marconi Elementary Community Academy,ES,Chicago,IL,60624,Level 3,Weak,26,NDA,NDA,Strong,65,Strong,76,NDA,NDA,Average,52,Average,52,91.50%,58.8,96.50%,4,7.3,245,26,WEST GARFIELD PARK,28,11
+609741,Gurdon S Hubbard High School,HS,Chicago,IL,60629,Level 2,Average,42,NDA,NDA,Weak,34,Weak,29,NDA,NDA,NDA,NDA,NDA,NDA,89.30%,4.3,96.40%,,,1672,65,WEST LAWN,13,8
+609726,Gwendolyn Brooks College Preparatory Academy High School,HS,Chicago,IL,60628,Level 1,Strong,64,NDA,NDA,Average,44,Average,49,NDA,NDA,Average,47,Average,49,87.10%,0.1,95.20%,,,783,49,ROSELAND,9,5
+610182,Hannah G Solomon Elementary School,ES,Chicago,IL,60659,Level 1,Strong,78,Very Strong,96,Strong,67,Strong,62,Strong,62,Average,52,Average,51,95.80%,0.8,95.70%,52.4,42.8,363,13,NORTH PARK,39,17
+610068,Hanson Park Elementary School,ES,Chicago,IL,60639,Level 2,Weak,35,NDA,NDA,Weak,34,Weak,33,NDA,NDA,Average,50,Average,47,95.00%,24.4,94.90%,14.4,11,1499,19,BELMONT CRAGIN,37,25
+610124,Harold Washington Elementary School,ES,Chicago,IL,60619,Level 2,Weak,28,NDA,NDA,Average,45,Strong,63,NDA,NDA,Average,47,Average,49,96.10%,3.1,96.20%,16,13.1,549,47,BURNSIDE,8,4
+610192,Harriet Beecher Stowe Elementary School,ES,Chicago,IL,60647,Level 3,Weak,28,NDA,NDA,Weak,26,Weak,31,NDA,NDA,Weak,44,Strong,54,93.80%,13.7,94.70%,3.1,2.5,893,23,HUMBOLDT PARK,26,14
+610158,Harriet E Sayre Elementary Language Academy,ES,Chicago,IL,60707,Level 2,Strong,68,NDA,NDA,Average,41,Average,50,NDA,NDA,Weak,44,Average,49,96.20%,2.6,96.60%,19.6,17.3,605,25,AUSTIN,36,25
+609974,Hawthorne Elementary Scholastic Academy,ES,Chicago,IL,60657,Level 1,Very Strong,92,Very Strong,88,Strong,61,Average,56,Very Strong,84,Strong,58,Average,52,96.90%,1.2,96.50%,75.1,66,569,6,LAKE VIEW,44,19
+609985,Helen M Hefferan Elementary School,ES,Chicago,IL,60624,Level 2,Weak,29,Weak,39,Weak,26,Strong,63,Average,52,Average,51,Strong,56,93.80%,13.4,95.90%,25.6,19.2,259,26,WEST GARFIELD PARK,28,11
+610122,Helen Peirce International Studies Elementary School,ES,Chicago,IL,60660,Level 2,Average,58,NDA,NDA,Weak,32,Weak,22,NDA,NDA,Average,47,Average,47,96.70%,5.8,95.80%,25.5,20.5,977,77,EDGEWATER,48,20
+609972,Helge A Haugan Elementary School,ES,Chicago,IL,60625,Level 2,Average,43,Weak,39,Average,57,Average,49,Weak,30,Weak,46,Average,51,96.20%,23.4,94.60%,15.2,10.2,1299,14,ALBANY PARK,39,17
+609856,Henry Clay Elementary School,ES,Chicago,IL,60633,Level 2,Weak,38,Weak,39,Weak,30,Weak,30,Weak,31,NDA,NDA,NDA,NDA,95.20%,6,96.10%,17.1,12.3,633,55,HEGEWISCH,10,4
+610040,Henry D Lloyd Elementary School,ES,Chicago,IL,60639,Level 3,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Average,48,Average,51,96.20%,0,97.20%,23.5,10.5,1334,19,BELMONT CRAGIN,31,25
+610092,Henry H Nash Elementary School,ES,Chicago,IL,60644,Level 3,Average,41,NDA,NDA,Strong,68,Strong,76,NDA,NDA,NDA,NDA,NDA,NDA,95.10%,27.9,95.80%,7.1,6,393,25,AUSTIN,28,15
+610279,Henry O Tanner Elementary School,ES,Chicago,IL,60619,Level 3,Weak,33,NDA,NDA,Average,42,Average,55,NDA,NDA,NDA,NDA,NDA,NDA,91.80%,43.1,95.60%,6.9,4.6,448,69,GREATER GRAND CROSSING,6,3
+609861,Henry R Clissold Elementary School,ES,Chicago,IL,60643,Level 2,Average,45,Strong,61,Weak,39,Strong,61,Average,51,Average,52,Weak,46,95.10%,8.4,96.90%,27.7,26.7,588,75,MORGAN PARK,19,22
+610297,High School of Leadership at South Shore,HS,Chicago,IL,60649,Level 3,NDA,,Weak,30,NDA,,NDA,,Weak,28,Weak,42,Weak,31,72.00%,43.4,95.20%,,,731,43,SOUTH SHORE,8,4
+609798,Hiram H Belding Elementary School,ES,Chicago,IL,60641,Level 2,Strong,64,Strong,63,Strong,67,Strong,69,Average,51,Average,53,Average,52,95.00%,21.3,96.20%,27.3,21.4,672,16,IRVING PARK,38,17
+609768,Hope College Preparatory High School,HS,Chicago,IL,60621,Level 3,Weak,31,Average,51,Weak,37,Average,44,Weak,35,NDA,NDA,NDA,NDA,72.20%,24,94.30%,,,561,68,ENGLEWOOD,3,7
+609850,Horace Greeley Elementary School,ES,Chicago,IL,60613,Level 1,Strong,65,NDA,NDA,Average,48,Weak,38,NDA,NDA,Average,52,Average,52,95.90%,6,96.00%,26.9,16.3,611,6,LAKE VIEW,46,19
+610052,Horace Mann Elementary School,ES,Chicago,IL,60617,Level 3,Weak,28,Weak,31,Weak,31,Weak,30,Weak,24,Weak,44,Weak,46,92.60%,44.4,94.50%,3.4,3.4,472,46,SOUTH CHICAGO,8,4
+610058,Horatio May Elementary Community Academy,ES,Chicago,IL,60644,Level 3,Average,42,NDA,NDA,Average,47,Average,56,NDA,NDA,NDA,NDA,NDA,NDA,91.90%,40,96.40%,9.4,5.6,458,25,AUSTIN,29,15
+609713,Hyde Park Academy High School,HS,Chicago,IL,60637,Level 3,Weak,29,Weak,39,Weak,34,Average,43,Average,41,NDA,NDA,NDA,NDA,70.50%,18.5,94.20%,,,1518,42,WOODLAWN,5,3
+610390,Hyman G Rickover Naval Academy High School,HS,Chicago,IL,60660,Level 2,Strong,64,NDA,NDA,Strong,64,Average,42,NDA,NDA,Average,53,Average,48,92.90%,15.4,95.90%,,,423,77,EDGEWATER,48,20
+610110,Ida B Wells Preparatory Elementary Academy,ES,Chicago,IL,60653,Level 3,Average,49,NDA,NDA,Strong,64,Very Strong,93,NDA,NDA,NDA,NDA,NDA,NDA,93.20%,9.5,92.80%,15.3,10.1,215,35,DOUGLAS,3,2
+610273,Ignance Paderewski Elementary Learning Academy,ES,Chicago,IL,60623,Level 3,Weak,31,NDA,NDA,Strong,63,Very Strong,98,NDA,NDA,Weak,46,Average,47,92.10%,20.9,95.20%,2,2,130,30,SOUTH LAWNDALE,22,10
+610384,Infinity Math Science and Technology High School,HS,Chicago,IL,60623,Level 2,Average,58,NDA,NDA,Strong,66,Strong,65,NDA,NDA,Average,51,Average,48,92.20%,7.5,96.00%,,,388,30,SOUTH LAWNDALE,22,10
+610078,Inter-American Elementary Magnet School,ES,Chicago,IL,60613,Level 1,Strong,67,NDA,NDA,Average,50,Average,51,NDA,NDA,Average,51,Average,47,96.20%,3,96.20%,27.6,21.3,690,6,LAKE VIEW,44,19
+609848,Ira F Aldridge Elementary School,ES,Chicago,IL,60827,Level 3,Weak,39,NDA,NDA,Weak,36,Weak,39,NDA,NDA,Average,49,Weak,46,92.90%,49,96.30%,7.7,7.2,285,54,RIVERDALE,9,5
+610532,Irene C. Hernandez Middle School for the Advancement of Science,MS,Chicago,IL,60632,Not Enough Data,Weak,34,Weak,34,Weak,27,Weak,27,Weak,27,NDA,NDA,NDA,NDA,95.50%,14.8,96.20%,11.6,9.2,970,63,GAGE PARK,14,8
+610125,Irma C Ruiz Elementary School,ES,Chicago,IL,60608,Level 2,Average,57,Average,59,Average,57,Strong,62,Average,56,Average,50,Average,51,95.50%,15.9,95.00%,10.7,12.8,916,31,LOWER WEST SIDE,25,10
+610276,Irvin C Mollison Elementary School,ES,Chicago,IL,60653,Level 3,Average,44,NDA,NDA,Average,46,Weak,38,NDA,NDA,Average,52,Average,50,91.10%,36.1,94.30%,4.8,4.3,244,38,GRAND BOULEVARD,3,2
+610103,Isabelle C O'Keeffe Elementary School,ES,Chicago,IL,60649,Level 3,Very Weak,17,NDA,NDA,Weak,28,Weak,29,NDA,NDA,Weak,40,Weak,43,92.10%,24.6,94.60%,3.4,6.7,575,43,SOUTH SHORE,5,3
+610256,Jackie Robinson Elementary School,ES,Chicago,IL,60653,Level 3,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Weak,45,Average,47,90.50%,47.9,93.80%,6.5,6.4,140,36,OAKLAND,4,2
+609797,Jacob Beidler Elementary School,ES,Chicago,IL,60612,Level 2,Strong,63,NDA,NDA,Strong,70,Average,58,NDA,NDA,NDA,NDA,NDA,NDA,95.40%,0.7,96.60%,14.3,5.1,411,27,EAST GARFIELD PARK,27,13
+609766,Jacqueline B Vaughn Occupational High School,HS,Chicago,IL,60641,Not Enough Data,Average,57,Strong,72,Weak,33,Weak,20,Strong,69,Strong,63,Strong,57,87.60%,3.7,95.50%,,,203,15,PORTAGE PARK,38,16
+609912,James B Farnsworth Elementary School,ES,Chicago,IL,60630,Level 2,Average,55,Strong,62,Average,40,Weak,38,Average,59,Strong,55,Average,50,94.20%,1.7,95.60%,30.7,25.6,574,11,JEFFERSON PARK,45,16
+610070,James B McPherson Elementary School,ES,Chicago,IL,60640,Level 2,Strong,71,NDA,NDA,Average,48,Weak,38,NDA,NDA,Average,52,Strong,54,96.50%,1.2,96.30%,15.4,15.9,695,4,LINCOLN SQUARE,47,19
+610066,James E McDade Elementary Classical School,ES,Chicago,IL,60619,Level 1,Very Strong,99,NDA,NDA,Average,57,Average,52,NDA,NDA,Strong,61,Average,52,96.20%,0,94.30%,73.3,74.1,199,44,CHATHAM,6,6
+609803,James G Blaine Elementary School,ES,Chicago,IL,60613,Level 1,Very Strong,99,NDA,NDA,Strong,76,Strong,74,NDA,NDA,Weak,40,Weak,46,96.40%,2.1,96.00%,61.3,50.1,923,6,LAKE VIEW,44,19
+609983,James Hedges Elementary School,ES,Chicago,IL,60609,Level 2,Weak,22,NDA,NDA,Weak,22,Weak,24,NDA,NDA,Weak,41,Weak,45,95.40%,48.8,96.50%,12.6,6.8,845,61,NEW CITY,20,9
+610047,James Madison Elementary School,ES,Chicago,IL,60619,Level 2,Weak,39,NDA,NDA,Weak,32,Weak,28,NDA,NDA,NDA,NDA,NDA,NDA,94.90%,12.4,97.70%,14.1,5.1,317,43,SOUTH SHORE,5,3
+610074,James Monroe Elementary School,ES,Chicago,IL,60647,Level 2,Average,45,NDA,NDA,Weak,26,Weak,22,NDA,NDA,Average,47,Average,47,95.10%,22.1,95.80%,15.5,11.6,1125,22,LOGAN SQUARE,35,25
+610200,James N Thorp Elementary School,ES,Chicago,IL,60617,Level 3,Weak,32,NDA,NDA,Weak,39,Weak,39,NDA,NDA,NDA,NDA,NDA,NDA,91.80%,45.4,95.90%,8.7,3.6,449,46,SOUTH CHICAGO,10,4
+610107,James Otis Elementary School,ES,Chicago,IL,60622,Level 1,Very Strong,83,Very Strong,92,Strong,67,Average,58,Very Strong,94,Strong,54,Strong,54,95.50%,3.2,96.50%,21.8,11.1,491,24,WEST TOWN,27,13
+609891,James R Doolittle Jr Elementary School,ES,Chicago,IL,60616,Level 3,Weak,30,NDA,NDA,Weak,25,Average,46,NDA,NDA,Weak,44,Average,47,91.40%,134.8,94.70%,2.2,1.1,306,35,DOUGLAS,4,2
+610044,James Russell Lowell Elementary School,ES,Chicago,IL,60651,Level 2,Weak,39,NDA,NDA,Weak,39,Average,40,NDA,NDA,Weak,45,Average,52,93.20%,11.2,95.70%,10.2,8.2,593,23,HUMBOLDT PARK,26,14
+610174,James Shields Elementary School,ES,Chicago,IL,60632,Level 2,Weak,38,NDA,NDA,Average,57,Average,58,NDA,NDA,Average,50,Average,50,97.00%,13.9,97.00%,18.3,12.7,1834,58,BRIGHTON PARK,12,9
+610213,James Wadsworth Elementary School,ES,Chicago,IL,60637,Level 3,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Average,47,Average,49,92.20%,8,95.50%,5.4,5.4,277,42,WOODLAWN,20,3
+610217,James Ward Elementary School,ES,Chicago,IL,60616,Level 1,Average,49,Strong,65,Average,50,Average,46,Average,56,Average,48,Weak,43,97.80%,1.3,96.90%,51.1,23.8,492,34,ARMOUR SQUARE,11,9
+610274,James Weldon Johnson Elementary School,ES,Chicago,IL,60623,Level 2,Strong,67,Weak,38,Strong,61,Strong,75,Strong,66,Average,51,Strong,54,94.70%,1.4,97.50%,8.9,5,365,29,NORTH LAWNDALE,24,10
+609772,Jane Addams Elementary School,ES,Chicago,IL,60617,Level 2,Average,56,Average,50,Average,44,Average,46,Average,44,Average,53,Average,53,96.00%,5,96.80%,19.3,15.9,928,52,EAST SIDE,10,4
+610093,Jane A Neil Elementary School,ES,Chicago,IL,60619,Level 3,Average,42,Average,41,Weak,27,Weak,28,Weak,36,Average,52,Average,53,88.90%,5,94.60%,11.4,7.1,306,44,CHATHAM,6,6
+609796,Jean Baptiste Beaubien Elementary School,ES,Chicago,IL,60630,Level 1,Strong,63,NDA,NDA,Average,49,Average,47,NDA,NDA,NDA,NDA,NDA,NDA,95.70%,7.4,96.30%,49.1,41.8,1181,11,JEFFERSON PARK,45,16
+610031,Jean D Lafayette Elementary School,ES,Chicago,IL,60622,Level 3,Average,44,Average,53,Average,43,Weak,38,Strong,72,Average,52,Average,52,94.10%,14.3,96.30%,8.3,6.2,474,24,WEST TOWN,1,13
+610271,Jensen Elementary Scholastic Academy,ES,Chicago,IL,60612,Level 2,Weak,35,Average,41,Average,42,Strong,67,Average,40,Weak,46,Average,47,93.10%,17.2,95.30%,20.2,11.7,364,27,EAST GARFIELD PARK,28,11
+609932,Jesse Owens Elementary Community Academy,ES,Chicago,IL,60628,Level 2,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Average,51,Strong,55,91.30%,4.9,93.50%,50,13,340,53,WEST PULLMAN,9,5
+610173,Jesse Sherwood Elementary School,ES,Chicago,IL,60621,Level 2,Weak,38,NDA,NDA,Average,47,Average,58,NDA,NDA,Average,51,Strong,56,92.00%,3.9,95.50%,25.7,12.9,355,68,ENGLEWOOD,20,7
+609942,Johann W von Goethe Elementary School,ES,Chicago,IL,60647,Level 2,Strong,75,Strong,61,Strong,68,Average,52,Strong,69,Strong,57,Average,53,95.80%,5.6,97.00%,24.9,17.6,786,22,LOGAN SQUARE,1,14
+610216,John A Walsh Elementary School,ES,Chicago,IL,60608,Level 2,Strong,60,NDA,NDA,Strong,70,Very Strong,91,NDA,NDA,Average,48,Average,53,95.10%,2.9,95.30%,17.4,12.5,501,31,LOWER WEST SIDE,25,12
+609789,John Barry Elementary School,ES,Chicago,IL,60641,Level 2,Weak,35,Average,49,Strong,70,Very Strong,81,Average,41,Average,51,Average,49,95.10%,5.6,96.10%,15.2,12.4,800,20,HERMOSA,31,25
+609894,John B Drake Elementary School,ES,Chicago,IL,60616,Level 3,Average,59,Weak,20,Average,57,Average,46,Very Weak,16,Average,50,Average,49,93.80%,43.3,95.90%,7.7,9.5,249,35,DOUGLAS,4,1
+610089,John B Murphy Elementary School,ES,Chicago,IL,60618,Level 1,Very Strong,80,NDA,NDA,Strong,75,Average,59,NDA,NDA,Strong,58,Strong,54,95.60%,1.9,96.30%,22,20.7,638,16,IRVING PARK,35,17
+610243,John Calhoun North Elementary School,ES,Chicago,IL,60612,Level 1,Average,52,Average,51,Average,44,Average,54,Very Strong,88,Weak,43,Average,48,95.90%,4.6,96.50%,32.8,14.4,328,27,EAST GARFIELD PARK,2,11
+609829,John C Burroughs Elementary School,ES,Chicago,IL,60632,Level 2,Average,50,Average,55,Weak,39,Weak,38,Average,53,Average,50,Weak,45,95.60%,0.2,96.10%,25.9,16,510,58,BRIGHTON PARK,12,9
+609866,John C Coonley Elementary School,ES,Chicago,IL,60618,Level 1,Very Strong,87,Very Strong,90,Strong,65,Weak,39,Average,56,Strong,58,Strong,55,95.90%,1.4,96.50%,45.3,39,668,5,NORTH CENTER,47,19
+609893,John C Dore Elementary School,ES,Chicago,IL,60638,Level 1,Strong,74,Strong,67,Strong,69,Strong,79,Average,51,Strong,58,Weak,46,95.60%,10.8,96.70%,43.8,25.3,590,64,CLEARING,23,8
+609959,John Charles Haines Elementary School,ES,Chicago,IL,60616,Level 1,Weak,32,Average,47,Weak,37,Weak,37,Average,48,Weak,43,Weak,43,98.40%,0.3,96.20%,45,25.7,664,34,ARMOUR SQUARE,25,9
+610176,John D Shoop Math-Science Technical Academy Elementary School,ES,Chicago,IL,60643,Level 3,Weak,32,Average,47,Average,43,Average,51,Average,42,Average,52,Strong,54,93.20%,40.8,96.30%,12.9,8.3,553,75,MORGAN PARK,34,22
+609898,John F Eberhart Elementary School,ES,Chicago,IL,60629,Level 3,Average,42,Average,41,Weak,33,Weak,34,Weak,32,NDA,NDA,NDA,NDA,95.30%,13.1,95.60%,8.9,9.6,1777,66,CHICAGO LAWN,15,8
+609919,John Fiske Elementary School,ES,Chicago,IL,60637,Level 3,Very Weak,13,Weak,24,Weak,37,Average,55,Weak,35,Average,47,Average,50,92.90%,37.1,91.70%,4,4,254,42,WOODLAWN,20,3
+609718,John F Kennedy High School,HS,Chicago,IL,60638,Level 3,Average,53,Weak,30,Weak,32,Weak,27,Weak,24,NDA,NDA,NDA,NDA,83.00%,22,94.70%,,,1589,56,GARFIELD RIDGE,23,8
+610263,John Foster Dulles Elementary School,ES,Chicago,IL,60637,Level 2,Average,42,Weak,22,Average,53,Average,42,Weak,21,Average,51,Strong,55,94.10%,28.2,97.30%,9.1,3.8,537,69,GREATER GRAND CROSSING,20,3
+610228,John Greenleaf Whittier Elementary School,ES,Chicago,IL,60608,Level 3,Strong,65,NDA,NDA,Average,45,Weak,24,NDA,NDA,NDA,NDA,NDA,NDA,94.90%,3.8,96.50%,6.3,3.9,409,31,LOWER WEST SIDE,25,10
+609694,John Hancock College Preparatory High School,HS,Chicago,IL,60629,Level 3,Average,51,Average,44,Average,44,Average,41,Average,42,Average,50,Weak,44,78.20%,7.5,95.90%,,,967,62,WEST ELSDON,13,8
+609971,John Harvard Elementary School of Excellence,ES,Chicago,IL,60620,Level 2,Average,51,Weak,24,Strong,61,Strong,61,Weak,36,Average,47,Strong,55,93.00%,8.7,96.00%,13.8,7.7,476,69,GREATER GRAND CROSSING,17,6
+609975,John Hay Elementary Community Academy,ES,Chicago,IL,60651,Level 2,Average,44,NDA,NDA,Average,49,Strong,61,NDA,NDA,Average,52,Strong,55,92.90%,30.8,97.10%,11.9,10,554,25,AUSTIN,37,15
+609964,John H Hamline Elementary School,ES,Chicago,IL,60609,Level 2,Weak,33,Weak,24,Weak,29,Average,43,Weak,33,Weak,44,Average,47,94.40%,7.5,95.70%,20.1,6.1,679,61,NEW CITY,20,9
+610026,John H Kinzie Elementary School,ES,Chicago,IL,60638,Level 1,Strong,64,NDA,NDA,Average,49,Average,54,NDA,NDA,Average,50,Average,48,95.40%,14.9,95.30%,32.6,19.7,733,56,GARFIELD RIDGE,23,8
+610207,John H Vanderpoel Elementary Magnet School,ES,Chicago,IL,60643,Level 2,Strong,74,NDA,NDA,Weak,24,Weak,31,NDA,NDA,Strong,55,Average,50,97.20%,0.3,96.20%,17.7,24.1,317,72,BEVERLY,19,22
+609782,John J Audubon Elementary School,ES,Chicago,IL,60618,Level 1,Very Strong,95,Strong,73,Strong,75,Strong,60,Strong,65,Strong,61,Average,47,96.20%,4.5,96.70%,45.3,34.8,580,5,NORTH CENTER,47,19
+610126,John J Pershing Elementary Humanities Magnet,ES,Chicago,IL,60616,Level 1,NDA,,Very Strong,90,NDA,,NDA,,Strong,78,NDA,NDA,NDA,NDA,95.50%,19.2,96.70%,54.9,39.2,258,35,DOUGLAS,4,2
+610054,John L Marsh Elementary School,ES,Chicago,IL,60617,Level 2,Strong,72,Average,53,Average,53,Weak,39,Average,48,Average,50,Strong,55,95.70%,5.4,95.50%,18.9,14.5,841,51,SOUTH DEERING,10,4
+609723,John Marshall Metropolitan High School,HS,Chicago,IL,60624,Level 3,Average,51,Average,52,Average,45,Average,46,Average,42,NDA,NDA,NDA,NDA,74.10%,42.9,95.80%,,,726,27,EAST GARFIELD PARK,28,11
+609710,John M Harlan Community Academy High School,HS,Chicago,IL,60628,Level 3,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,NDA,NDA,NDA,NDA,81.20%,21.6,94.40%,17.8,15.6,1245,49,ROSELAND,6,5
+609954,John Milton Gregory Elementary School,ES,Chicago,IL,60624,Level 1,Average,44,Average,43,Weak,39,Average,43,Average,59,Average,49,Strong,55,95.20%,3.2,94.60%,24.2,19.5,323,27,EAST GARFIELD PARK,24,11
+610180,John M Smyth Elementary School,ES,Chicago,IL,60608,Level 3,Weak,37,NDA,NDA,Average,54,Strong,64,NDA,NDA,Weak,43,Average,52,92.40%,20.1,93.30%,6.3,3.2,475,28,NEAR WEST SIDE,2,12
+610199,Johnnie Colemon Elementary Academy,ES,Chicago,IL,60643,Level 2,Strong,60,NDA,NDA,Average,56,Strong,63,NDA,NDA,Average,53,Strong,57,95.90%,23.4,95.40%,14.6,18.4,266,53,WEST PULLMAN,34,5
+610111,John Palmer Elementary School,ES,Chicago,IL,60630,Level 2,Strong,75,NDA,NDA,Strong,61,Strong,68,NDA,NDA,Strong,65,Strong,61,96.30%,12.8,94.80%,25.3,15.1,919,14,ALBANY PARK,39,17
+609775,John P Altgeld Elementary School,ES,Chicago,IL,60636,Level 3,Average,48,Weak,37,Strong,64,Average,58,Weak,35,Weak,46,Average,48,91.90%,32.9,95.50%,16.4,20.9,527,67,WEST ENGLEWOOD,17,7
+610184,John Spry Elementary Community School,ES,Chicago,IL,60623,Level 2,Strong,66,Average,59,Strong,70,Strong,67,Average,43,Weak,46,Average,48,96.20%,5.9,97.40%,17.9,7.3,809,30,SOUTH LAWNDALE,12,10
+610269,John T McCutcheon Elementary School,ES,Chicago,IL,60640,Level 2,Average,56,Weak,36,Strong,67,Average,41,Average,42,Average,52,Average,53,94.00%,8.8,94.80%,19.5,10.8,355,3,UPTOWN,48,20
+610130,John T Pirie Fine Arts & Academic Center Elementary School,ES,Chicago,IL,60619,Level 2,Weak,26,Average,44,Strong,63,Strong,62,Average,46,NDA,NDA,NDA,NDA,93.50%,20.8,95.40%,10.7,20.9,384,44,CHATHAM,6,6
+609864,John W Cook Elementary School,ES,Chicago,IL,60620,Level 2,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Weak,45,Average,47,94.00%,26,94.00%,6.4,4.6,482,71,AUBURN GRESHAM,21,6
+609937,John W Garvy Elementary School,ES,Chicago,IL,60656,Level 1,Strong,60,Strong,70,Average,50,Average,51,Average,55,Strong,56,Average,49,95.30%,10.2,96.50%,34.4,33.5,720,10,NORWOOD PARK,41,16
+610225,John Whistler Elementary School,ES,Chicago,IL,60643,Level 3,Average,45,Weak,32,Average,41,Weak,28,Weak,21,Average,52,Strong,55,92.40%,11.1,97.00%,5.4,4.1,375,53,WEST PULLMAN,34,5
+609828,Jonathan Burr Elementary School,ES,Chicago,IL,60622,Level 1,Strong,71,Strong,66,Strong,68,Average,51,Strong,63,Strong,56,Average,49,95.90%,4.3,96.90%,29.1,22.2,348,24,WEST TOWN,1,14
+610159,Jonathan Y Scammon Elementary School,ES,Chicago,IL,60641,Level 2,Average,44,NDA,NDA,Weak,21,Weak,20,NDA,NDA,Average,48,Weak,44,95.90%,8,95.30%,14.8,11.9,937,16,IRVING PARK,30,17
+609865,Jordan Elementary Community School,ES,Chicago,IL,60626,Level 2,Strong,61,Weak,31,Average,57,Average,49,Very Weak,15,Average,52,Average,51,95.60%,16.4,95.10%,16.9,7.1,753,1,ROGERS PARK,49,24
+610313,Jose De Diego Elementary Community Academy,ES,Chicago,IL,60622,Level 3,Average,57,Average,53,Weak,37,Average,40,Strong,64,Average,53,Strong,54,95.00%,29,96.80%,16.7,11.3,869,24,WEST TOWN,1,14
+609950,Josefa Ortiz De Dominguez Elementary School,ES,Chicago,IL,60623,NDA,NDA,,Strong,69,NDA,,NDA,,Average,54,Average,51,Strong,55,95.80%,3.6,97.00%,,,793,30,SOUTH LAWNDALE,22,10
+610242,Joseph Brennemann Elementary School,ES,Chicago,IL,60613,Level 1,Average,50,Average,56,Average,55,Average,59,Average,54,Average,53,Strong,59,96.50%,13.7,97.70%,18.1,10.9,362,3,UPTOWN,46,19
+609938,Joseph E Gary Elementary School,ES,Chicago,IL,60623,Level 2,Weak,32,Weak,27,Weak,29,Weak,28,Very Weak,17,Weak,45,Average,48,96.10%,16.8,96.20%,14.3,7.6,1204,30,SOUTH LAWNDALE,22,10
+610041,Josephine C Locke Elementary School,ES,Chicago,IL,60634,Level 1,Average,57,Average,47,Average,49,Average,56,Average,45,Average,47,Average,50,95.50%,2.2,95.10%,21.1,15.6,1317,18,MONTCLARE,36,25
+610015,Joseph Jungman Elementary School,ES,Chicago,IL,60608,Level 2,Weak,36,Weak,34,Average,56,Average,53,Average,43,Average,48,Average,49,96.40%,5.3,96.30%,7.8,6.6,286,31,LOWER WEST SIDE,25,12
+609925,Joseph Kellman Corporate Community Elementary School,ES,Chicago,IL,60612,Level 2,Average,58,Strong,68,Average,42,Average,45,Average,50,Strong,59,Strong,57,95.20%,4.4,95.80%,13.3,10.5,293,27,EAST GARFIELD PARK,2,11
+610043,Joseph Lovett Elementary School,ES,Chicago,IL,60639,Level 2,Average,43,NDA,NDA,Weak,32,Weak,22,NDA,NDA,Average,49,Weak,45,95.40%,16.1,95.40%,9.1,8.3,490,25,AUSTIN,29,25
+610189,Joseph Stockton Elementary School,ES,Chicago,IL,60640,Level 2,Weak,37,NDA,NDA,Average,51,Strong,68,NDA,NDA,NDA,NDA,NDA,NDA,94.90%,11,95.30%,18.3,12.4,462,3,UPTOWN,46,19
+610218,Joseph Warren Elementary School,ES,Chicago,IL,60617,Level 2,Weak,33,Average,55,Average,49,Average,40,NDA,NDA,Weak,46,Average,50,95.00%,21.6,95.30%,13.7,14.7,328,48,CALUMET HEIGHTS,8,4
+610019,Joshua D Kershaw Elementary School,ES,Chicago,IL,60621,Level 2,Strong,62,Strong,63,Strong,69,Average,56,Average,59,Strong,58,Strong,63,94.80%,8.2,96.00%,22.3,16.2,262,68,ENGLEWOOD,20,7
+610129,Josiah Pickard Elementary School,ES,Chicago,IL,60608,Level 2,Average,50,Weak,36,Weak,35,Weak,37,Weak,34,Average,48,Strong,54,95.80%,5.1,96.40%,16.1,11,656,31,LOWER WEST SIDE,25,12
+610022,Joyce Kilmer Elementary School,ES,Chicago,IL,60626,Level 2,NDA,,Average,43,NDA,,NDA,,Average,42,Average,49,Average,51,96.00%,15.6,96.90%,22.8,15,886,1,ROGERS PARK,40,24
+610253,Julia C Lathrop Elementary School,ES,Chicago,IL,60623,Level 3,Strong,67,NDA,NDA,Average,58,Weak,26,NDA,NDA,Weak,40,Average,50,90.50%,113.5,95.50%,5.9,4,83,29,NORTH LAWNDALE,24,10
+610000,Julia Ward Howe Elementary School of Excellence,ES,Chicago,IL,60644,Level 1,Strong,67,Average,46,Very Strong,90,Strong,69,Strong,67,Strong,57,Strong,64,96.00%,7.7,97.10%,20.6,9.3,576,25,AUSTIN,37,15
+610280,Kate S Buckingham Special Education Center,ES,Chicago,IL,60617,Level 3,Weak,31,NDA,NDA,Weak,24,Weak,20,NDA,NDA,NDA,NDA,NDA,NDA,83.40%,116.9,94.40%,0,0,26,48,CALUMET HEIGHTS,7,4
+610016,Kate S Kellogg Elementary School,ES,Chicago,IL,60620,Level 2,Strong,76,NDA,NDA,Average,57,Strong,63,NDA,NDA,Average,53,Weak,46,96.30%,12,95.40%,24.2,30.9,283,72,BEVERLY,19,22
+609716,Kelvyn Park High School,HS,Chicago,IL,60639,Level 3,Weak,32,Weak,28,Weak,32,Weak,28,Average,43,NDA,NDA,NDA,NDA,74.40%,12.9,94.50%,,,1252,20,HERMOSA,31,25
+609746,Kenwood Academy High School,HS,Chicago,IL,60615,Level 2,Strong,63,NDA,NDA,Average,48,Average,56,NDA,NDA,NDA,NDA,NDA,NDA,88.40%,5.9,95.30%,69.5,31,1852,39,KENWOOD,4,2
+609719,Lake View High School,HS,Chicago,IL,60613,Level 2,Strong,64,NDA,NDA,Average,52,Average,43,NDA,NDA,Average,49,Weak,43,87.70%,8.5,96.20%,,,1500,6,LAKE VIEW,47,19
+610368,Langston Hughes Elementary School,ES,Chicago,IL,60628,Level 3,Weak,28,Average,54,Very Weak,16,Weak,30,Average,48,Weak,46,Strong,56,90.00%,27.5,95.50%,8.2,6.1,424,49,ROSELAND,34,5
+610033,LaSalle Elementary Language Academy,ES,Chicago,IL,60614,Level 1,Very Strong,99,Strong,79,Strong,62,Average,52,Average,43,Average,53,Average,48,96.80%,7,97.60%,55.5,49.5,576,7,LINCOLN PARK,43,18
+610520,LaSalle II Magnet Elementary School,ES,Chicago,IL,60622,Level 1,Strong,66,Very Strong,81,Weak,36,Average,52,Strong,79,Strong,55,Average,51,95.10%,5.6,94.80%,33.8,38,609,24,WEST TOWN,1,13
+609910,Laughlin Falconer Elementary School,ES,Chicago,IL,60641,Level 2,Average,54,Weak,24,Average,48,Weak,27,Weak,30,Average,49,Average,53,96.10%,5.7,97.00%,21,14.2,1520,19,BELMONT CRAGIN,31,25
+610133,Laura S Ward Elementary School,ES,Chicago,IL,60624,Level 3,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,NDA,NDA,NDA,NDA,92.90%,3.9,97.50%,14.2,6.9,429,23,HUMBOLDT PARK,27,11
+610034,Lawndale Elementary Community Academy,ES,Chicago,IL,60623,Level 3,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,NDA,NDA,NDA,NDA,91.00%,18.8,94.80%,3.3,4,508,29,NORTH LAWNDALE,24,10
+610024,Lazaro Cardenas Elementary School,ES,Chicago,IL,60623,Level 1,NDA,,Average,58,NDA,,NDA,,Average,58,Average,52,Strong,57,96.30%,3.2,98.50%,26.3,15.8,654,30,SOUTH LAWNDALE,22,10
+609907,Leif Ericson Elementary Scholastic Academy,ES,Chicago,IL,60624,Level 2,Weak,33,NDA,NDA,Average,49,Average,52,NDA,NDA,Weak,45,Weak,45,94.70%,20.8,95.10%,13.3,7.7,518,27,EAST GARFIELD PARK,28,11
+610298,Lenart Elementary Regional Gifted Center,ES,Chicago,IL,60620,Level 1,Strong,79,Average,58,Average,51,Strong,67,Strong,63,Average,52,Average,52,97.40%,0.3,97.80%,88,86.4,328,44,CHATHAM,21,6
+610036,Leslie Lewis Elementary School,ES,Chicago,IL,60651,Level 3,Weak,21,Weak,37,Weak,36,Strong,64,Average,48,Weak,42,Weak,43,91.80%,37.7,95.30%,4,5,565,25,AUSTIN,37,25
+609738,Lincoln Park High School,HS,Chicago,IL,60614,Level 2,Strong,65,Strong,61,Average,44,Average,49,Average,45,NDA,NDA,NDA,NDA,84.60%,9.2,96.00%,,,2342,7,LINCOLN PARK,43,18
+609807,Lionel Hampton Fine & Performing Arts Elementary School,ES,Chicago,IL,60652,Level 2,Average,42,NDA,NDA,Weak,34,Weak,28,NDA,NDA,Weak,46,Average,51,95.00%,94.9,96.60%,9.4,9.4,658,70,ASHBURN,18,8
+609834,Little Village Elementary School,ES,Chicago,IL,60623,Level 1,Average,45,Average,43,Average,52,Strong,66,Average,43,Average,47,Average,50,96.70%,3.2,96.70%,11.3,11.4,842,30,SOUTH LAWNDALE,22,10
+610325,Logandale Middle School,MS,Chicago,IL,60618,Level 2,Average,56,NDA,NDA,Weak,32,Weak,28,NDA,NDA,Average,50,Average,51,95.10%,5.1,95.60%,11.6,7.8,941,21,AVONDALE,35,14
+609809,Lorenz Brentano Math & Science Academy Elementary School,ES,Chicago,IL,60647,Level 2,Average,57,Average,47,Average,43,Average,46,Weak,32,NDA,NDA,NDA,NDA,94.70%,9.2,97.70%,18.4,8.2,455,22,LOGAN SQUARE,35,14
+609773,Louis A Agassiz Elementary School,ES,Chicago,IL,60657,Level 1,Average,53,NDA,NDA,Weak,23,Weak,21,NDA,NDA,Strong,56,Average,47,95.20%,32.6,96.80%,27.5,27.5,432,6,LAKE VIEW,44,19
+609774,Louisa May Alcott Elementary School,ES,Chicago,IL,60614,Level 1,NDA,,Strong,66,NDA,,NDA,,Average,57,Strong,60,Weak,41,96.60%,3.7,97.10%,52.6,46.1,481,7,LINCOLN PARK,43,19
+610156,Louis Armstrong Math & Science Elementary School,ES,Chicago,IL,60644,Level 3,Average,42,NDA,NDA,Average,49,Strong,62,NDA,NDA,Strong,59,Average,53,92.60%,83.4,97.90%,1.7,7.8,93,25,AUSTIN,29,15
+610094,Louis Nettelhorst Elementary School,ES,Chicago,IL,60657,Level 1,Average,58,NDA,NDA,Weak,34,Weak,30,NDA,NDA,NDA,NDA,NDA,NDA,95.50%,5.3,95.90%,38.2,42.4,729,6,LAKE VIEW,44,19
+610117,Louis Pasteur Elementary School,ES,Chicago,IL,60629,Level 2,Average,50,NDA,NDA,Average,42,Weak,38,NDA,NDA,NDA,NDA,NDA,NDA,95.00%,5,95.80%,15.9,13.7,1173,62,WEST ELSDON,13,8
+610237,Ludwig Van Beethoven Elementary School,ES,Chicago,IL,60609,Level 3,Average,40,NDA,NDA,Average,58,Average,59,NDA,NDA,Weak,46,Average,52,93.70%,11.4,94.70%,16.5,4,411,38,GRAND BOULEVARD,3,2
+610108,Luke O'Toole Elementary School,ES,Chicago,IL,60636,Level 3,Very Weak,5,NDA,NDA,Weak,33,Average,40,NDA,NDA,Weak,45,Average,47,89.20%,26.7,94.60%,7.8,4.6,511,67,WEST ENGLEWOOD,15,7
+609818,Luther Burbank Elementary School,ES,Chicago,IL,60639,Level 2,Weak,37,NDA,NDA,Average,42,Weak,34,NDA,NDA,Average,47,Average,49,95.20%,9.8,95.50%,20.6,11.3,1139,19,BELMONT CRAGIN,29,25
+609817,Lyman A Budlong Elementary School,ES,Chicago,IL,60625,Level 2,Average,59,Average,56,Weak,33,Weak,38,Average,41,Average,50,Average,49,95.40%,3.9,95.70%,26.6,23.7,864,4,LINCOLN SQUARE,40,20
+610205,Lyman Trumbull Elementary School,ES,Chicago,IL,60640,Level 3,Average,56,NDA,NDA,Average,47,Weak,25,NDA,NDA,Average,50,Strong,55,94.30%,17.8,95.20%,14.2,13.5,438,77,EDGEWATER,40,20
+610369,Mahalia Jackson Elementary School,ES,Chicago,IL,60620,Level 3,Weak,38,NDA,NDA,Average,54,Strong,66,NDA,NDA,Weak,46,Average,51,92.50%,35.7,94.60%,7.6,9.2,323,71,AUBURN GRESHAM,21,22
+610197,Mancel Talcott Elementary School,ES,Chicago,IL,60622,Level 1,Strong,63,Average,58,Average,59,Strong,71,Average,55,Average,51,Average,49,95.80%,3.2,96.90%,25.6,20.8,580,24,WEST TOWN,1,13
+609722,Manley Career Academy High School,HS,Chicago,IL,60612,Level 3,Average,41,Weak,39,Average,43,Weak,31,Weak,32,NDA,NDA,NDA,NDA,66.80%,19.7,95.40%,,,599,27,EAST GARFIELD PARK,28,11
+609872,Manuel Perez Elementary School,ES,Chicago,IL,60608,Level 1,Average,45,NDA,NDA,Average,42,Average,45,NDA,NDA,Average,52,Average,50,95.90%,7.3,96.60%,14.8,8.7,426,31,LOWER WEST SIDE,25,12
+610128,Marcus Moziah Garvey Elementary School,ES,Chicago,IL,60643,Level 2,Average,50,NDA,NDA,Average,50,Average,48,NDA,NDA,Average,49,Average,51,94.00%,20.5,96.00%,22.4,18.5,356,73,WASHINGTON HEIGHTS,34,22
+610544,Mariano Azuela Elementary School,ES,Chicago,IL,60629,Not Enough Data,Average,54,Very Strong,96,Strong,61,Very Strong,81,Very Strong,84,Average,47,Strong,58,95.50%,19.7,0.00%,13,11.9,873,65,WEST LAWN,13,8
+610017,Maria Saucedo Elementary Scholastic Academy,ES,Chicago,IL,60623,Level 1,Strong,60,NDA,NDA,Average,55,Strong,64,NDA,NDA,Weak,43,Weak,42,96.80%,19.4,96.90%,24.3,16,1306,30,SOUTH LAWNDALE,12,10
+609756,Marie Sklodowska Curie Metropolitan High School,HS,Chicago,IL,60632,Level 3,Average,43,Weak,35,Weak,37,Average,45,Weak,39,NDA,NDA,NDA,NDA,85.00%,9.1,95.00%,,,3320,57,ARCHER HEIGHTS,14,8
+610502,Marine Military Math and Science Academy ,HS,Chicago,IL,60612,Level 2,Average,41,Average,49,Weak,38,Weak,34,Weak,35,Strong,54,Average,49,91.30%,4.5,95.30%,,,366,28,NEAR WEST SIDE,2,11
+610081,Mark Sheridan Elementary Math & Science Academy,ES,Chicago,IL,60616,Level 1,Strong,74,Average,59,Average,53,Strong,63,Strong,63,Strong,55,Average,51,96.80%,1.3,97.00%,47.2,38.3,535,60,BRIDGEPORT,11,9
+610177,Mark Skinner Elementary School,ES,Chicago,IL,60607,Level 1,Very Strong,87,NDA,NDA,Average,48,Average,53,NDA,NDA,NDA,NDA,NDA,NDA,97.10%,0,94.90%,77.2,73,784,28,NEAR WEST SIDE,27,12
+610206,Mark Twain Elementary School,ES,Chicago,IL,60638,Level 1,Strong,67,Strong,76,Average,46,Average,44,Strong,71,Strong,60,Strong,60,96.30%,5.3,97.80%,32.3,19.8,1161,56,GARFIELD RIDGE,23,8
+610053,Marquette Elementary School,ES,Chicago,IL,60629,Level 3,Very Weak,15,NDA,NDA,Very Weak,17,Very Weak,17,NDA,NDA,Weak,43,Weak,46,93.10%,64.6,95.30%,6.8,4.6,1390,66,CHICAGO LAWN,15,8
+610152,Martha Ruggles Elementary School,ES,Chicago,IL,60619,Level 2,Average,43,NDA,NDA,Weak,37,Average,41,NDA,NDA,Average,48,Weak,46,93.90%,30.9,96.70%,8.7,5.5,417,69,GREATER GRAND CROSSING,6,6
+610154,Martin A Ryerson Elementary School,ES,Chicago,IL,60624,Level 1,Average,40,Weak,32,Average,48,Average,43,Weak,37,Weak,45,Average,48,95.50%,95.1,96.80%,23.1,17.1,445,23,HUMBOLDT PARK,27,11
+610539,Marvin Camras Elementary School,ES,Chicago,IL,60634,Not Enough Data,Average,54,Average,58,Weak,37,Average,41,Very Strong,88,Average,51,Strong,55,95.10%,4.3,0.00%,11.2,12,826,19,BELMONT CRAGIN,30,25
+610355,Mary E Courtenay Elementary Language Arts Center,ES,Chicago,IL,60613,Level 2,Very Strong,99,NDA,NDA,Very Strong,95,Very Strong,80,NDA,NDA,Strong,59,Average,49,94.90%,10.8,94.20%,21.2,28.6,257,6,LAKE VIEW,47,19
+610312,Mary E McDowell Elementary School,ES,Chicago,IL,60619,Level 2,NDA,,Average,49,NDA,,NDA,,Average,53,NDA,NDA,NDA,NDA,95.50%,3.1,96.10%,21,16.1,188,48,CALUMET HEIGHTS,8,4
+610127,Mary Gage Peterson Elementary School,ES,Chicago,IL,60625,Level 1,Strong,62,NDA,NDA,Average,49,Average,58,NDA,NDA,Average,51,Average,48,95.50%,10.3,96.70%,35.5,27.5,860,13,NORTH PARK,40,17
+610046,Mary Lyon Elementary School,ES,Chicago,IL,60634,Level 2,Average,55,NDA,NDA,Average,42,Weak,38,NDA,NDA,Weak,45,Average,51,95.90%,3.7,97.00%,29.5,23.7,1423,19,BELMONT CRAGIN,29,25
+609888,Mary Mapes Dodge Elementary Renaissance Academy,ES,Chicago,IL,60612,Level 2,Average,57,Strong,61,Strong,68,Strong,73,Very Strong,83,Strong,56,Strong,57,94.40%,12.7,97.10%,29.4,16,434,27,EAST GARFIELD PARK,2,13
+610365,Mary McLeod Bethune Elementary School,ES,Chicago,IL,60612,Level 3,Average,53,Average,47,Average,53,Weak,39,Average,46,Strong,56,Strong,58,93.30%,25.8,97.60%,6.1,4.4,362,27,EAST GARFIELD PARK,28,11
+610535,Mason High School,HS,Chicago,IL,60623,Not Enough Data,Average,50,NDA,NDA,Average,59,Average,59,NDA,NDA,Average,50,Average,47,90.40%,44.3,0.00%,,,48,29,NORTH LAWNDALE,24,10
+610240,Matthew A Henson Elementary School,ES,Chicago,IL,60623,Level 3,Weak,37,NDA,NDA,Weak,34,Weak,22,NDA,NDA,Strong,55,Strong,63,90.90%,13.2,95.70%,3.5,1.7,271,29,NORTH LAWNDALE,24,10
+609935,Matthew Gallistel Elementary Language Academy,ES,Chicago,IL,60617,Level 2,Average,49,Average,45,Weak,37,Weak,32,Average,40,Average,50,Weak,44,95.10%,5.9,96.30%,17.8,12.9,1408,52,EAST SIDE,10,4
+610362,Medgar Evers Elementary School,ES,Chicago,IL,60628,Level 1,Weak,27,NDA,NDA,Weak,35,Average,49,NDA,NDA,Strong,56,Strong,55,94.90%,18.1,96.10%,17.3,14.8,367,73,WASHINGTON HEIGHTS,21,22
+609928,Melville W Fuller Elementary School,ES,Chicago,IL,60653,Level 3,Weak,22,NDA,NDA,Weak,32,Weak,33,NDA,NDA,Average,51,Strong,55,91.80%,40.2,93.90%,3.6,1.4,241,38,GRAND BOULEVARD,4,2
+610055,Michael Faraday Elementary School,ES,Chicago,IL,60624,Level 2,Weak,35,NDA,NDA,Strong,65,Strong,66,NDA,NDA,Average,50,Average,50,93.30%,39.4,94.60%,17.9,7,194,27,EAST GARFIELD PARK,28,11
+609832,Michael M Byrne Elementary School,ES,Chicago,IL,60638,Level 3,Strong,63,Strong,61,Weak,35,Weak,38,Average,57,Average,49,Weak,45,94.60%,51.8,95.80%,23.1,24.8,705,56,GARFIELD RIDGE,23,8
+610244,Michele Clark Academic Prep Magnet High School,HS,Chicago,IL,60644,Level 3,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Average,48,Weak,36,79.10%,24.4,95.40%,1.7,2.6,726,25,AUSTIN,24,15
+610208,Mildred I Lavizzo Elementary School,ES,Chicago,IL,60628,Level 3,Very Weak,15,Weak,35,Average,41,Average,46,Weak,30,Average,48,Average,51,91.50%,39.1,95.00%,6.1,4.6,394,49,ROSELAND,34,5
+609830,Milton Brunson Math & Science Specialty Elementary School ,ES,Chicago,IL,60651,Level 3,Weak,30,NDA,NDA,Weak,30,Average,45,NDA,NDA,Average,47,Strong,55,91.30%,16.6,95.00%,8.8,5.4,658,25,AUSTIN,29,15
+610011,Minnie Mars Jamieson Elementary School,ES,Chicago,IL,60659,Level 1,Strong,64,Average,50,Strong,62,Strong,66,Average,41,Average,52,Average,53,95.70%,8.1,96.20%,37.5,23.7,811,2,WEST RIDGE,40,20
+610018,Miriam G Canter Middle School,MS,Chicago,IL,60615,Level 3,Average,57,Average,55,Weak,31,Weak,37,Strong,62,NDA,NDA,NDA,NDA,91.40%,3.4,95.70%,21.6,7.8,222,39,KENWOOD,4,2
+609725,Morgan Park High School,HS,Chicago,IL,60643,Level 2,Average,40,NDA,NDA,Weak,25,Weak,38,NDA,NDA,NDA,NDA,NDA,NDA,84.20%,11.1,94.60%,52,38.2,1584,75,MORGAN PARK,19,22
+610257,Morton School of Excellence,ES,Chicago,IL,60612,Level 1,Average,53,Average,49,Strong,66,Strong,63,Very Strong,95,Average,52,Strong,59,93.60%,73.9,97.10%,16.3,8.4,349,23,HUMBOLDT PARK,27,13
+610075,Moses Montefiore Special Elementary School,ES,Chicago,IL,60608,Level 3,Weak,28,NDA,NDA,Average,42,Very Weak,14,NDA,NDA,Weak,46,Strong,54,80.40%,251.6,93.50%,0,0,21,28,NEAR WEST SIDE,2,12
+610082,Mount Greenwood Elementary School,ES,Chicago,IL,60655,Level 1,Very Strong,84,NDA,NDA,Average,58,Weak,38,NDA,NDA,NDA,NDA,NDA,NDA,96.00%,2.9,96.10%,39.5,39.2,909,74,MOUNT GREENWOOD,19,22
+610086,Mount Vernon Elementary School,ES,Chicago,IL,60643,Level 2,Weak,31,Weak,26,Average,42,Average,44,Very Weak,19,Average,47,Average,52,93.30%,76.6,94.10%,14.6,9.8,290,73,WASHINGTON HEIGHTS,34,22
+610385,Multicultural Academy of Scholarship,HS,Chicago,IL,60623,Level 2,Average,48,NDA,NDA,Average,47,Average,42,NDA,NDA,Strong,56,Average,52,89.20%,22.4,96.70%,,,324,30,SOUTH LAWNDALE,22,10
+609806,Myra Bradwell Communications Arts & Sciences Elementary School,ES,Chicago,IL,60649,Level 3,Weak,31,Weak,35,Average,41,Average,50,Average,54,Average,49,Strong,54,92.10%,75.9,96.40%,6.3,4.3,775,43,SOUTH SHORE,7,4
+609952,Nathanael Greene Elementary School,ES,Chicago,IL,60609,Level 2,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Average,48,Strong,54,95.50%,3.8,96.20%,23.2,20.2,631,59,MCKINLEY PARK,11,9
+609960,Nathan Hale Elementary School,ES,Chicago,IL,60638,Level 2,Average,55,Strong,63,Average,51,Average,56,Strong,65,Strong,55,Average,52,94.50%,9.8,96.20%,19.3,15.6,872,64,CLEARING,23,8
+610134,Nathaniel Pope Elementary School,ES,Chicago,IL,60623,Level 3,Average,48,NDA,NDA,Strong,73,Very Strong,83,NDA,NDA,NDA,NDA,NDA,NDA,91.60%,54.2,95.80%,4.5,6.8,200,29,NORTH LAWNDALE,24,10
+610348,Nathan R Goldblatt Elementary School,ES,Chicago,IL,60624,Level 3,Average,49,NDA,NDA,Very Strong,80,Very Strong,99,NDA,NDA,Average,53,Strong,58,92.90%,57.7,95.60%,11.7,7.5,268,26,WEST GARFIELD PARK,28,11
+609876,Nathan S Davis Elementary School,ES,Chicago,IL,60632,Level 1,Average,43,NDA,NDA,Average,41,Average,46,NDA,NDA,Average,48,Average,50,95.10%,2.4,95.90%,16.2,9.2,1032,58,BRIGHTON PARK,14,9
+610231,National Teachers Elementary Academy,ES,Chicago,IL,60616,Level 1,Strong,67,Strong,70,Strong,65,Strong,60,Average,46,Strong,56,Strong,61,94.70%,9.2,96.30%,16.5,12.7,446,33,NEAR SOUTH SIDE,3,1
+609692,Neal F Simeon Career Academy High School,HS,Chicago,IL,60620,Level 3,Average,52,NDA,NDA,Weak,33,Average,42,NDA,NDA,NDA,NDA,NDA,NDA,78.60%,2.1,94.30%,,,1535,44,CHATHAM,21,6
+610085,Near North Elementary School,ES,Chicago,IL,60642,Level 3,Average,50,NDA,NDA,Weak,27,Weak,23,NDA,NDA,NDA,NDA,NDA,NDA,80.20%,58.3,94.80%,1.3,0,91,24,WEST TOWN,27,13
+610284,New Field Elementary School,ES,Chicago,IL,60626,Level 2,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Average,51,Strong,56,96.20%,3.1,95.60%,23.2,10.9,696,1,ROGERS PARK,49,24
+610323,New Millennium High School of Health at Bowen,HS,Chicago,IL,60617,Level 3,Very Weak,17,Weak,23,Weak,37,Weak,25,Very Weak,6,NDA,NDA,NDA,NDA,75.60%,61.8,94.70%,,,701,46,SOUTH CHICAGO,7,4
+609792,Newton Bateman Elementary School,ES,Chicago,IL,60618,Level 2,Average,55,Weak,36,Average,50,Average,47,Weak,34,Average,52,Average,52,96.20%,0.2,96.70%,21.7,16.1,1015,16,IRVING PARK,33,17
+609730,Nicholas Senn High School,HS,Chicago,IL,60660,Level 3,Average,48,NDA,NDA,Average,45,Average,42,NDA,NDA,NDA,NDA,NDA,NDA,81.70%,41.3,96.40%,,,1053,77,EDGEWATER,48,20
+609793,Nicholson Technology Academy,ES,Chicago,IL,60621,Level 2,Average,48,Weak,37,Strong,74,Strong,73,Weak,39,NDA,NDA,NDA,NDA,93.40%,6,97.00%,22.6,8.9,464,68,ENGLEWOOD,16,7
+609961,Ninos Heroes Elementary Academic Center,ES,Chicago,IL,60617,Level 2,Weak,36,NDA,NDA,Strong,61,Average,55,NDA,NDA,Average,48,Average,49,93.90%,25.9,95.00%,14.7,9.4,435,46,SOUTH CHICAGO,10,4
+609810,Norman A Bridge Elementary School,ES,Chicago,IL,60634,Level 2,Strong,67,NDA,NDA,Average,49,Weak,35,NDA,NDA,Average,51,Average,48,95.60%,6.6,96.60%,27.8,18.9,1004,17,DUNNING,38,16
+609691,North-Grand High School,HS,Chicago,IL,60639,Level 2,Average,42,NDA,NDA,Weak,39,Weak,25,NDA,NDA,NDA,NDA,NDA,NDA,88.60%,15.3,95.60%,,,883,23,HUMBOLDT PARK,31,25
+610354,North River Elementary School,ES,Chicago,IL,60625,Level 2,Strong,67,Strong,60,Average,53,Average,51,Average,47,Average,50,Average,51,95.60%,20.1,96.00%,19.6,13.7,359,14,ALBANY PARK,33,17
+609749,Northside College Preparatory High School,HS,Chicago,IL,60625,Level 1,Very Strong,99,NDA,NDA,Very Strong,99,Very Strong,88,NDA,NDA,Strong,57,Strong,62,95.70%,2.8,96.80%,,,1053,13,NORTH PARK,40,17
+609744,Northside Learning Center High School,HS,Chicago,IL,60659,Not Enough Data,Very Strong,99,Very Strong,99,Very Strong,81,Weak,34,Very Strong,84,Strong,62,Strong,59,89.80%,5.3,95.60%,,,298,13,NORTH PARK,39,17
+610051,Northwest Middle School,MS,Chicago,IL,60639,Level 3,Weak,34,NDA,NDA,Very Weak,17,Very Weak,13,NDA,NDA,NDA,NDA,NDA,NDA,93.40%,2.2,95.10%,11.3,5.9,756,19,BELMONT CRAGIN,37,25
+610099,Norwood Park Elementary School,ES,Chicago,IL,60631,Level 1,Very Strong,99,Very Strong,86,Strong,69,Strong,68,Weak,32,Strong,57,Average,52,95.50%,0.3,95.60%,50.5,39,359,10,NORWOOD PARK,41,16
+610529,Ogden International High School,HS,Chicago,IL,60622,Not Enough Data,Average,56,NDA,NDA,Weak,39,Weak,24,NDA,NDA,NDA,NDA,NDA,NDA,94.20%,13.7,0.00%,42.6,38.9,558,24,WEST TOWN,27,13
+610201,Ole A Thorp Elementary Scholastic Academy,ES,Chicago,IL,60634,Level 1,Strong,70,Strong,61,Average,47,Average,40,Average,57,Average,50,Average,50,96.40%,25.8,95.80%,48.8,38.7,834,17,DUNNING,38,16
+610300,Oliver S Westcott Elementary School,ES,Chicago,IL,60620,Level 2,Weak,30,Average,41,Average,48,Average,54,Average,47,Weak,46,Average,48,92.60%,31.5,94.80%,7,6,413,44,CHATHAM,21,6
+609997,Oliver Wendell Holmes Elementary School,ES,Chicago,IL,60621,Level 3,Weak,21,NDA,NDA,Weak,23,Average,41,NDA,NDA,Average,48,Average,48,87.00%,139.8,92.40%,5,3,334,68,ENGLEWOOD,16,7
+610105,Oriole Park Elementary School,ES,Chicago,IL,60656,Level 1,Very Strong,99,NDA,NDA,Very Strong,88,Strong,71,NDA,NDA,Strong,60,Weak,46,96.50%,2.3,95.50%,75.1,54.7,648,10,NORWOOD PARK,41,16
+610329,Orozco Fine Arts & Sciences Elementary School,ES,Chicago,IL,60608,Level 1,Average,55,NDA,NDA,Weak,34,Average,44,NDA,NDA,Average,50,Average,53,97.60%,1.4,96.40%,30.2,17.4,636,31,LOWER WEST SIDE,25,12
+610389,Orr Academy High School,HS,Chicago,IL,60624,Level 3,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,NDA,NDA,NDA,NDA,66.30%,10.2,95.00%,,,831,23,HUMBOLDT PARK,28,11
+609811,Orville T Bright Elementary School,ES,Chicago,IL,60617,Level 3,Very Weak,18,NDA,NDA,Weak,28,Weak,27,NDA,NDA,Weak,41,Weak,42,92.20%,55.7,95.30%,8.2,5.9,361,51,SOUTH DEERING,10,4
+610367,Oscar DePriest Elementary School,ES,Chicago,IL,60644,Level 2,Weak,35,Weak,39,Average,47,Average,53,Weak,39,Average,47,Strong,54,92.70%,20,95.60%,4.8,9.8,524,25,AUSTIN,29,15
+610059,Oscar F Mayer Elementary School,ES,Chicago,IL,60614,Level 2,Strong,67,NDA,NDA,Weak,35,Average,46,NDA,NDA,NDA,NDA,NDA,NDA,95.00%,11.4,95.20%,18.1,17,605,7,LINCOLN PARK,32,18
+610021,Pablo Casals Elementary School,ES,Chicago,IL,60651,Level 3,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Weak,42,Weak,43,92.00%,47.1,95.90%,9.6,5,505,23,HUMBOLDT PARK,26,14
+610115,Park Manor Elementary School,ES,Chicago,IL,60637,Level 3,Weak,28,Average,42,Average,42,Average,48,Strong,67,Strong,55,Strong,54,94.90%,16.6,96.30%,6.2,5.7,352,69,GREATER GRAND CROSSING,6,3
+610116,Parkside Elementary Community Academy,ES,Chicago,IL,60649,Level 3,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Weak,42,Weak,43,89.80%,90.7,94.90%,5.6,3.5,348,43,SOUTH SHORE,5,3
+609988,Patrick Henry Elementary School,ES,Chicago,IL,60618,Level 1,Average,45,Average,56,Average,46,Average,43,Average,45,Average,52,Average,49,95.10%,4.3,95.90%,12.5,12.3,650,16,IRVING PARK,33,17
+610003,Paul Cuffe Math-Science Technology Academy Elementary School,ES,Chicago,IL,60620,Level 3,Average,51,Strong,60,Average,45,Average,54,Very Strong,83,Average,48,Average,51,93.60%,46.9,95.40%,20.6,15.6,512,71,AUBURN GRESHAM,21,6
+609676,Paul Laurence Dunbar Career Academy High School,HS,Chicago,IL,60616,Level 3,Weak,29,Average,57,Weak,31,Weak,37,Average,49,NDA,NDA,NDA,NDA,76.90%,21.5,96.00%,,,1456,35,DOUGLAS,2,1
+610146,Paul Revere Elementary School,ES,Chicago,IL,60619,Level 3,Weak,36,NDA,NDA,Average,42,Average,56,NDA,NDA,Average,49,Average,47,92.40%,33.3,94.60%,3.5,3.4,320,69,GREATER GRAND CROSSING,5,3
+609707,Paul Robeson High School,HS,Chicago,IL,60621,Level 3,Weak,29,NDA,NDA,Weak,33,Average,40,NDA,NDA,NDA,NDA,NDA,NDA,73.50%,26.4,94.70%,,,733,68,ENGLEWOOD,6,7
+609762,Percy L Julian High School,HS,Chicago,IL,60643,Level 3,Weak,28,Average,50,Weak,30,Weak,35,Average,51,NDA,NDA,NDA,NDA,74.60%,33.4,94.20%,,,1226,73,WASHINGTON HEIGHTS,21,22
+609791,Perkins Bass Elementary School,ES,Chicago,IL,60621,Level 3,Weak,28,Average,50,Average,47,Average,57,Average,42,Average,47,Average,49,92.10%,28.9,96.40%,5,6,369,68,ENGLEWOOD,17,7
+610395,Pershing West Middle School,MS,Chicago,IL,60616,Level 2,Average,46,Average,53,Weak,34,Average,55,Average,58,NDA,NDA,NDA,NDA,96.20%,3.7,97.60%,17.5,21.4,269,35,DOUGLAS,2,2
+610145,Peter A Reinberg Elementary School,ES,Chicago,IL,60634,Level 1,Strong,60,Average,51,Weak,35,Weak,30,Average,54,Average,47,Weak,45,95.80%,8.2,95.70%,24,14.7,832,15,PORTAGE PARK,38,16
+609867,Peter Cooper Elementary Dual Language Academy,ES,Chicago,IL,60608,Level 2,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,NDA,NDA,NDA,NDA,96.20%,5.7,96.30%,9.6,10.7,709,31,LOWER WEST SIDE,25,12
+610147,Philip Rogers Elementary School,ES,Chicago,IL,60645,Level 1,Very Strong,81,Strong,76,Strong,68,Strong,62,Strong,64,Average,53,Average,51,96.40%,3,95.10%,34.3,28.3,735,2,WEST RIDGE,50,24
+609777,Phillip D Armour Elementary School,ES,Chicago,IL,60608,Level 2,Weak,36,NDA,NDA,Weak,34,Very Weak,14,NDA,NDA,Average,53,Average,51,93.90%,16,95.80%,10.1,8.7,365,60,BRIDGEPORT,11,9
+610090,Phillip Murray Elementary Language Academy,ES,Chicago,IL,60615,Level 2,Strong,66,NDA,NDA,Weak,34,Weak,37,NDA,NDA,Strong,56,Average,53,95.60%,3.5,95.90%,35,36,533,41,HYDE PARK,4,2
+609981,Phobe Apperson Hearst Elementary School,ES,Chicago,IL,60638,Level 3,Weak,33,NDA,NDA,Weak,31,Weak,27,NDA,NDA,Weak,45,Weak,44,92.10%,25.5,95.80%,4.9,6.7,364,56,GARFIELD RIDGE,23,8
+610304,Phoenix Military Academy High School,HS,Chicago,IL,60612,Level 1,Average,53,NDA,NDA,Average,59,Strong,78,NDA,NDA,Average,52,Average,48,92.10%,4.3,97.40%,,,461,28,NEAR WEST SIDE,2,11
+610013,Pilsen Elementary Community Academy,ES,Chicago,IL,60608,Level 1,Average,43,Average,40,Average,49,Average,55,Weak,37,NDA,NDA,NDA,NDA,96.00%,9.4,96.70%,18,12.8,447,31,LOWER WEST SIDE,25,12
+610135,Portage Park Elementary School,ES,Chicago,IL,60641,Level 2,Strong,62,NDA,NDA,Average,46,Weak,32,NDA,NDA,Average,48,Average,53,94.20%,3.7,95.90%,22.9,21.1,1139,15,PORTAGE PARK,38,16
+610138,Pulaski International Academy Elmentary School,ES,Chicago,IL,60647,Level 1,Strong,68,Average,45,Average,54,Average,57,Weak,23,Average,47,Average,47,96.10%,1.7,96.20%,24.2,19.4,864,22,LOGAN SQUARE,32,14
+609842,Rachel Carson Elementary School,ES,Chicago,IL,60629,Level 2,Weak,38,Weak,36,Average,45,Average,56,Weak,36,Average,50,Average,51,97.60%,3.9,97.70%,19.4,12.2,1222,63,GAGE PARK,16,8
+609902,Ralph H Metcalfe Elementary Community Academy,ES,Chicago,IL,60628,Level 3,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Average,48,Average,50,94.90%,22.3,95.50%,18.2,12.6,489,53,WEST PULLMAN,34,5
+610141,Ravenswood Elementary School,ES,Chicago,IL,60613,Level 2,Average,46,NDA,NDA,Average,42,Average,41,NDA,NDA,Average,53,Weak,44,94.90%,8.1,95.70%,18.9,13.7,465,6,LAKE VIEW,47,19
+609769,Ray Graham Training Center High School,HS,Chicago,IL,60616,Not Enough Data,Very Strong,90,Very Strong,82,Average,52,Weak,39,Average,52,Average,53,Strong,58,86.30%,3.7,94.30%,,,137,33,NEAR SOUTH SIDE,2,1
+609903,Richard Edwards Elementary School,ES,Chicago,IL,60632,Level 2,Average,48,Average,48,Weak,38,Average,41,Average,49,Average,49,Average,47,95.30%,10.3,96.80%,17.6,11.4,1503,57,ARCHER HEIGHTS,14,8
+610291,Richard Henry Lee Elementary School,ES,Chicago,IL,60629,Level 2,Average,59,NDA,NDA,Average,46,Weak,35,NDA,NDA,NDA,NDA,NDA,NDA,95.00%,21.8,95.30%,15.6,7.6,832,65,WEST LAWN,13,8
+610239,Richard J Daley Elementary Academy,ES,Chicago,IL,60609,Level 2,Weak,29,Average,40,Weak,37,Average,46,Average,42,Weak,46,Average,47,94.90%,44.2,96.00%,14.4,5.3,797,61,NEW CITY,16,9
+610102,Richard J Oglesby Elementary School,ES,Chicago,IL,60620,Level 3,Average,44,Average,40,Average,49,Average,49,Weak,32,Weak,46,Weak,46,94.40%,25.4,96.90%,5.1,7.5,402,71,AUBURN GRESHAM,17,6
+609702,Richard T Crane Technical Preparatory High School,HS,Chicago,IL,60612,Level 3,Average,43,NDA,NDA,Average,50,Average,48,NDA,NDA,Average,47,Weak,46,57.90%,19.9,93.90%,,,478,28,NEAR WEST SIDE,2,12
+610234,Richard Yates Elementary School,ES,Chicago,IL,60647,Level 3,Average,42,NDA,NDA,Strong,66,Strong,73,NDA,NDA,Average,51,Strong,55,93.70%,5.6,96.20%,15.2,5.4,690,22,LOGAN SQUARE,35,14
+609695,Roald Amundsen High School,HS,Chicago,IL,60625,Level 3,Average,51,Average,44,Average,43,Average,42,Average,41,Weak,43,Weak,41,81.10%,8.7,95.90%,,,1532,4,LINCOLN SQUARE,47,20
+610350,Robert A Black Magnet Elementary School,ES,Chicago,IL,60619,Level 1,Strong,68,NDA,NDA,Strong,63,Average,58,NDA,NDA,Strong,55,Weak,46,96.00%,0.4,93.70%,20.1,21,474,48,CALUMET HEIGHTS,8,4
+609906,Robert Emmet Elementary School,ES,Chicago,IL,60644,Level 2,Weak,37,NDA,NDA,Strong,64,Strong,71,NDA,NDA,Average,51,Strong,54,89.80%,30.1,94.80%,12.9,13.3,460,25,AUSTIN,29,15
+609929,Robert Fulton Elementary School,ES,Chicago,IL,60609,Level 2,Average,46,Average,41,Strong,63,Strong,63,Weak,39,Weak,45,Average,49,95.10%,10.1,96.80%,9.6,1.1,466,61,NEW CITY,16,9
+609979,Robert Healy Elementary School,ES,Chicago,IL,60616,Level 1,Strong,63,NDA,NDA,Average,54,Weak,36,NDA,NDA,NDA,NDA,NDA,NDA,96.60%,11.3,97.10%,45.1,29.9,1384,60,BRIDGEPORT,11,9
+610045,Robert H Lawrence Elementary School,ES,Chicago,IL,60617,Level 3,Very Weak,19,Weak,29,Average,40,Average,51,Weak,30,NDA,NDA,NDA,NDA,90.70%,14,95.30%,2.7,3.4,371,51,SOUTH DEERING,7,4
+609956,Robert L Grimes Elementary School,ES,Chicago,IL,60638,Level 1,Strong,79,Strong,64,Average,56,Average,59,Strong,71,Average,53,Average,49,95.20%,5,95.60%,22.1,18.8,486,64,CLEARING,13,8
+610391,Robert Lindblom Math & Science Academy High School,HS,Chicago,IL,60636,Level 1,Strong,66,NDA,NDA,Strong,75,Very Strong,85,NDA,NDA,Strong,55,Average,51,92.70%,2.1,95.90%,61.7,37.6,916,67,WEST ENGLEWOOD,15,7
+610252,Robert Nathaniel Dett Elementary School,ES,Chicago,IL,60612,Level 1,Average,48,NDA,NDA,Average,51,Strong,65,NDA,NDA,Average,51,Strong,57,94.40%,6.9,94.80%,24.4,15.4,250,28,NEAR WEST SIDE,2,13
+609759,Roberto Clemente Community Academy High School,HS,Chicago,IL,60622,Level 2,Average,44,Weak,31,Weak,39,Weak,34,Weak,25,NDA,NDA,NDA,NDA,69.60%,20.6,94.20%,,,1016,24,WEST TOWN,1,13
+610029,Rodolfo Lozano Bilingual & International Center Elementary School,ES,Chicago,IL,60622,Level 2,Average,55,NDA,NDA,Weak,39,Weak,37,NDA,NDA,Weak,45,Average,53,94.80%,0.9,96.20%,9.3,11.3,319,24,WEST TOWN,32,14
+609733,Roger C Sullivan High School,HS,Chicago,IL,60626,Level 3,Weak,30,Average,44,Weak,34,Weak,34,Weak,33,Weak,44,Weak,45,81.60%,14.7,95.80%,,,826,1,ROGERS PARK,40,24
+610091,Ronald Brown Elementary Community Academy,ES,Chicago,IL,60628,Level 2,Weak,31,Weak,26,Average,52,Weak,33,Average,45,Average,52,Strong,55,93.80%,35.6,96.30%,13.4,12.5,283,53,WEST PULLMAN,9,5
+610282,Ronald E McNair Elementary School,ES,Chicago,IL,60651,Level 3,Weak,31,Weak,30,Average,56,Average,59,Weak,20,Average,47,Average,53,90.70%,52.8,96.50%,9.8,5.6,422,25,AUSTIN,37,15
+609826,Rosario Castellanos Elementary School,ES,Chicago,IL,60623,Level 2,Weak,36,Weak,24,Weak,34,Weak,20,Weak,31,Weak,46,Average,48,96.30%,24.3,96.90%,8,6.2,525,30,SOUTH LAWNDALE,22,10
+610056,Roswell B Mason Elementary School,ES,Chicago,IL,60623,Level 3,Weak,37,Average,47,Average,44,Average,58,Weak,36,Average,51,Strong,54,92.40%,31,95.00%,4.2,5.8,479,29,NORTH LAWNDALE,24,10
+610027,Rudyard Kipling Elementary School,ES,Chicago,IL,60620,Level 2,Average,52,NDA,NDA,Average,42,Average,42,NDA,NDA,Average,53,Average,51,94.70%,23.4,96.00%,20.9,21.2,445,73,WASHINGTON HEIGHTS,21,22
+610250,Rueben Salazar Elementary Bilingual Center,ES,Chicago,IL,60610,Level 2,Strong,64,NDA,NDA,Average,54,Average,53,NDA,NDA,Average,52,Average,47,95.10%,44.6,95.80%,20.5,15.5,444,8,NEAR NORTH SIDE,43,18
+609995,Rufus M Hitch Elementary School,ES,Chicago,IL,60646,Level 1,Strong,64,Strong,77,Average,55,Average,58,Strong,70,Strong,55,Strong,54,95.10%,3.7,96.60%,29.5,24.7,542,10,NORWOOD PARK,45,16
+609853,Salmon P Chase Elementary School,ES,Chicago,IL,60647,Level 2,Average,55,Weak,28,Average,59,Weak,39,Weak,27,NDA,NDA,NDA,NDA,95.40%,18.5,95.80%,17.1,11,504,22,LOGAN SQUARE,1,14
+609943,Samuel Gompers Fine Arts Options Elementary School,ES,Chicago,IL,60628,Level 2,Weak,34,Average,42,Average,48,Average,52,Average,59,Average,49,Average,47,93.60%,54.2,96.00%,13.5,8.5,285,53,WEST PULLMAN,9,5
+610155,Sauganash Elementary School,ES,Chicago,IL,60646,Level 1,Very Strong,99,NDA,NDA,Strong,76,Strong,61,NDA,NDA,NDA,NDA,NDA,NDA,96.30%,1.5,95.40%,49.1,34.5,549,12,FOREST GLEN,39,17
+609805,Scott Joplin Elementary School,ES,Chicago,IL,60620,Level 3,Weak,35,Weak,29,Average,44,Average,53,Weak,34,Average,52,Average,50,95.00%,44.5,94.60%,9.8,12.2,538,71,AUBURN GRESHAM,18,6
+609968,Sharon Christa McAuliffe Elementary School,ES,Chicago,IL,60647,Level 3,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Average,52,Strong,56,93.90%,14.2,95.70%,10.4,11,862,20,HERMOSA,30,25
+610157,Sidney Sawyer Elementary School,ES,Chicago,IL,60632,Level 2,Average,57,Weak,30,Average,41,Weak,39,Weak,29,Average,49,Average,52,96.80%,7.4,96.40%,18.7,12.7,1846,63,GAGE PARK,14,8
+610283,Simon Guggenheim Elementary School,ES,Chicago,IL,60621,Level 3,Weak,30,NDA,NDA,Weak,38,Weak,22,NDA,NDA,Average,48,Average,47,90.90%,29.5,93.10%,4.2,6.6,291,68,ENGLEWOOD,17,7
+610521,Sir Miles Davis Magnet Elementary Academy,ES,Chicago,IL,60636,Level 3,Weak,35,NDA,NDA,Average,51,Average,54,NDA,NDA,NDA,NDA,NDA,NDA,93.00%,57.8,94.50%,5.9,3.2,354,67,WEST ENGLEWOOD,15,7
+610534,Skinner North,ES,Chicago,IL,60610,Not Enough Data,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Strong,64,Average,52,96.40%,0,97.80%,100,100,242,8,NEAR NORTH SIDE,27,18
+610226,Socorro Sandoval Elementary School,ES,Chicago,IL,60629,Level 3,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Weak,44,Average,50,95.80%,3.7,96.50%,15.9,9.1,1186,63,GAGE PARK,14,8
+610160,Songhai Elementary Learning Institute,ES,Chicago,IL,60628,Level 3,Very Weak,17,NDA,NDA,Average,47,Average,54,NDA,NDA,Weak,46,Weak,46,89.50%,84.7,95.40%,3.6,3.6,352,53,WEST PULLMAN,34,5
+609990,South Loop Elementary School,ES,Chicago,IL,60605,Level 1,Very Strong,84,Strong,66,Weak,34,Weak,36,Average,46,Strong,54,Weak,46,95.30%,12.7,97.20%,54.2,48.8,795,33,NEAR SOUTH SIDE,2,1
+610530,South Shore Fine Arts Academy,ES,Chicago,IL,60637,Not Enough Data,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Strong,56,Strong,55,93.60%,22.4,96.30%,20.8,0,255,43,SOUTH SHORE,5,3
+609745,Southside Occupational Academy High School,HS,Chicago,IL,60636,Not Enough Data,NDA,,Average,52,NDA,,NDA,,Strong,60,Strong,63,Strong,60,85.50%,13.1,95.20%,,,201,67,WEST ENGLEWOOD,17,7
+610183,Spencer Technology Academy,ES,Chicago,IL,60644,Level 2,Weak,35,Average,50,Average,57,Strong,71,Average,56,Average,50,Strong,55,92.50%,24.1,96.00%,10.7,11,811,25,AUSTIN,28,15
+610357,Spry Community Links High School,HS,Chicago,IL,60623,Level 2,Strong,70,NDA,NDA,Very Strong,92,Very Strong,87,NDA,NDA,Strong,56,Average,51,95.60%,9.7,95.70%,,,205,30,SOUTH LAWNDALE,12,10
+609880,Stephen Decatur Classical Elementary School,ES,Chicago,IL,60645,Level 1,Very Strong,99,Very Strong,99,Very Strong,99,Very Strong,99,Very Strong,99,Average,52,Weak,46,96.20%,2.8,95.40%,93.6,93.6,289,2,WEST RIDGE,50,24
+609933,Stephen F Gale Elementary Community Academy,ES,Chicago,IL,60626,Level 3,Weak,39,Weak,31,Weak,35,Weak,27,Weak,29,Weak,45,Weak,43,92.10%,34.8,95.20%,7.6,6.9,532,1,ROGERS PARK,49,24
+609976,Stephen K Hayt Elementary School,ES,Chicago,IL,60660,Level 1,Strong,72,Strong,61,Average,52,Average,44,Strong,66,NDA,NDA,NDA,NDA,95.60%,55.6,96.00%,28.6,23.2,1000,77,EDGEWATER,40,24
+609724,Stephen T Mather High School,HS,Chicago,IL,60659,Level 2,Average,58,Average,44,Average,48,Average,47,Average,56,NDA,NDA,NDA,NDA,87.60%,7.6,96.50%,,,1657,2,WEST RIDGE,40,20
+610191,Stone Elementary Scholastic Academy,ES,Chicago,IL,60659,Level 1,Strong,78,NDA,NDA,Average,55,Average,43,NDA,NDA,Strong,55,Average,47,96.40%,1.9,96.00%,45.7,44.7,646,2,WEST RIDGE,50,24
+610405,Suder Montessori Magnet Elementary School,ES,Chicago,IL,60612,Level 1,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,NDA,NDA,NDA,NDA,96.60%,6.5,95.70%,40.7,29.2,351,28,NEAR WEST SIDE,2,13
+610249,Talman Elementary School,ES,Chicago,IL,60632,Level 1,Very Strong,99,Very Strong,99,Very Strong,99,Very Strong,99,Very Strong,81,Strong,57,Average,48,96.20%,9.2,95.50%,27.3,16.5,376,63,GAGE PARK,14,9
+610396,Tarkington School of Excellence Elementary School,ES,Chicago,IL,60629,Level 2,Average,48,NDA,NDA,Weak,39,Average,40,NDA,NDA,Average,49,Strong,56,95.90%,10.5,96.60%,13.4,9.7,1070,66,CHICAGO LAWN,18,8
+610506,TEAM Englewood Community Academy High School,HS,Chicago,IL,60621,Level 2,Average,45,Average,48,Average,55,Average,53,Strong,68,Strong,58,Average,49,87.30%,8.2,96.50%,,,440,68,ENGLEWOOD,20,7
+609921,Telpochcalli Elementary School,ES,Chicago,IL,60623,Level 3,Average,42,Average,48,Very Weak,19,Weak,22,Strong,69,Strong,55,Average,51,95.40%,2.7,94.70%,8.4,7.3,285,30,SOUTH LAWNDALE,12,10
+609991,Theodore Herzl Elementary School,ES,Chicago,IL,60623,Level 3,Average,41,NDA,NDA,Average,53,Strong,65,NDA,NDA,NDA,NDA,NDA,NDA,90.80%,23.9,97.00%,4.6,3.8,512,29,NORTH LAWNDALE,24,10
+609728,Theodore Roosevelt High School,HS,Chicago,IL,60625,Level 3,Average,42,NDA,NDA,Average,42,Weak,37,NDA,NDA,NDA,NDA,NDA,NDA,82.30%,9.7,96.10%,,,1490,14,ALBANY PARK,33,17
+610178,Theophilus Schmid Elementary School,ES,Chicago,IL,60628,Level 2,Average,46,NDA,NDA,Weak,31,Average,53,NDA,NDA,Weak,41,Average,52,92.10%,67.1,96.30%,17.1,6.7,185,50,PULLMAN,8,5
+609794,Thomas A Edison Regional Gifted Center Elementary School,ES,Chicago,IL,60625,Level 1,Very Strong,91,NDA,NDA,Strong,64,Average,56,NDA,NDA,Strong,55,Strong,57,96.60%,1.9,96.30%,79,88.4,269,14,ALBANY PARK,39,17
+609987,Thomas A Hendricks Elementary Community Academy,ES,Chicago,IL,60609,Level 3,Weak,33,NDA,NDA,Strong,67,Strong,78,NDA,NDA,Average,51,Average,52,91.20%,61.8,95.60%,8.5,1,307,37,FULLER PARK,3,9
+609851,Thomas Chalmers Specialty Elementary School,ES,Chicago,IL,60608,Level 3,Weak,34,Strong,76,Weak,39,Average,45,Strong,78,NDA,NDA,NDA,NDA,94.40%,3.4,97.30%,2.1,4.9,288,29,NORTH LAWNDALE,28,10
+609896,Thomas Drummond Elementary School,ES,Chicago,IL,60622,Level 1,Strong,72,NDA,NDA,Average,59,Average,46,NDA,NDA,Strong,58,Average,48,95.20%,0.3,96.70%,34,34,352,22,LOGAN SQUARE,32,14
+610002,Thomas Hoyne Elementary School,ES,Chicago,IL,60617,Level 1,Strong,67,Strong,66,Strong,77,Strong,73,Strong,66,NDA,NDA,NDA,NDA,94.80%,0,95.40%,23.4,14,288,48,CALUMET HEIGHTS,7,4
+610295,Thomas J Higgins Elementary Community Academy,ES,Chicago,IL,60643,Level 1,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Average,49,Average,53,95.20%,0.5,95.20%,19.1,9.8,369,53,WEST PULLMAN,34,5
+610220,Thomas J Waters Elementary School,ES,Chicago,IL,60625,Level 1,Very Strong,85,NDA,NDA,Average,56,Average,54,NDA,NDA,Average,52,Average,49,96.10%,0.4,95.10%,27.2,28.5,590,4,LINCOLN SQUARE,47,19
+609715,Thomas Kelly High School,HS,Chicago,IL,60632,Level 2,Weak,36,Average,53,Weak,36,Weak,35,Average,57,NDA,NDA,NDA,NDA,89.30%,5.8,95.30%,,,2883,58,BRIGHTON PARK,14,9
+610321,Thurgood Marshall Middle School,MS,Chicago,IL,60618,Level 3,Weak,39,NDA,NDA,Very Weak,11,Very Weak,1,NDA,NDA,NDA,NDA,NDA,NDA,94.00%,18.1,96.00%,18.6,4,435,16,IRVING PARK,39,17
+609895,Turner-Drew Elementary Language Academy,ES,Chicago,IL,60620,Level 1,Average,56,Average,56,Average,48,Average,51,Strong,66,NDA,NDA,NDA,NDA,95.80%,24,95.20%,24.2,23.2,373,49,ROSELAND,21,6
+610394,Uplift Community High School,HS,Chicago,IL,60640,Level 2,Average,50,Average,50,Strong,61,Strong,62,Average,53,NDA,NDA,NDA,NDA,88.70%,8.1,95.90%,23.3,2.3,473,3,UPTOWN,46,19
+610504,Velma F Thomas Early Childhood Center,ES,Chicago,IL,60609,NDA,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Strong,55,Strong,57,,0,95.60%,,,211,59,MCKINLEY PARK,11,9
+609989,Victor Herbert Elementary School,ES,Chicago,IL,60612,Level 1,Average,50,Average,52,Strong,64,Strong,72,Average,50,Average,50,Average,52,92.80%,10.3,96.20%,30,10.3,398,28,NEAR WEST SIDE,2,12
+609944,Virgil Grissom Elementary School,ES,Chicago,IL,60633,Level 2,Strong,62,Strong,66,Average,51,Strong,64,Very Strong,87,NDA,NDA,NDA,NDA,95.50%,2.5,96.40%,22,17.7,330,55,HEGEWISCH,10,4
+610518,VOISE Academy High School,HS,Chicago,IL,60644,Level 2,Average,42,NDA,NDA,Average,52,Average,52,NDA,NDA,NDA,NDA,NDA,NDA,84.50%,25,96.50%,,,410,25,AUSTIN,28,15
+610363,Walt Disney Magnet Elementary School,ES,Chicago,IL,60613,Level 1,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,NDA,NDA,NDA,NDA,96.40%,7.7,96.40%,46,35.7,1651,3,UPTOWN,46,19
+610095,Walter L Newberry Math & Science Academy Elementary School,ES,Chicago,IL,60614,Level 1,Strong,71,Strong,74,Average,52,Strong,66,Average,44,Strong,54,Average,47,95.10%,2.1,96.30%,46.2,35.9,558,7,LINCOLN PARK,43,18
+609680,Walter Payton College Preparatory High School,HS,Chicago,IL,60610,Level 1,Very Strong,98,NDA,NDA,Very Strong,80,Strong,77,NDA,NDA,NDA,NDA,NDA,NDA,93.40%,0.7,96.10%,,,881,8,NEAR NORTH SIDE,27,18
+609955,Walter Q Gresham Elementary School,ES,Chicago,IL,60620,Level 2,Weak,25,Average,49,Very Weak,7,Very Weak,11,Average,57,Average,48,Weak,46,95.50%,35.4,95.00%,9.9,7.4,359,71,AUBURN GRESHAM,21,6
+610264,Walter Reed Elementary School,ES,Chicago,IL,60621,Level 2,Weak,29,NDA,NDA,Strong,62,Strong,68,NDA,NDA,Average,47,Average,51,92.40%,75.5,93.20%,28.6,9.9,44,68,ENGLEWOOD,20,7
+609855,Walter S Christopher Elementary School,ES,Chicago,IL,60632,Level 3,NDA,,Average,48,NDA,,NDA,,Strong,64,Average,52,Average,53,86.10%,4,94.10%,13.3,5.7,279,63,GAGE PARK,14,9
+610179,Washington D Smyser Elementary School,ES,Chicago,IL,60634,Level 1,Average,55,NDA,NDA,Average,43,Average,45,NDA,NDA,NDA,NDA,NDA,NDA,95.50%,4.9,97.20%,36.5,27.5,1047,15,PORTAGE PARK,38,16
+610121,Washington Irving Elementary School,ES,Chicago,IL,60612,Level 2,Average,43,NDA,NDA,Weak,34,Average,44,NDA,NDA,Average,48,Average,49,95.60%,15.1,95.90%,22.6,20.9,482,28,NEAR WEST SIDE,25,12
+609740,Wells Community Academy High School,HS,Chicago,IL,60622,Level 2,Average,51,Average,49,Average,41,Weak,38,Average,49,NDA,NDA,NDA,NDA,74.10%,16.9,96.20%,,,633,24,WEST TOWN,1,13
+610032,Wendell E Green Elementary School,ES,Chicago,IL,60643,Level 1,Weak,32,NDA,NDA,Average,47,Average,53,NDA,NDA,Average,53,Average,47,93.90%,20.1,95.70%,25.8,15.7,254,73,WASHINGTON HEIGHTS,21,22
+609727,Wendell Phillips Academy High School,HS,Chicago,IL,60653,Level 3,NDA,,Strong,71,NDA,,NDA,,Strong,79,NDA,NDA,NDA,NDA,63.00%,22,96.10%,,,590,35,DOUGLAS,3,2
+609978,Wendell Smith Elementary School,ES,Chicago,IL,60628,Level 3,Weak,22,Weak,24,Very Weak,1,Very Weak,1,Weak,29,Weak,42,Weak,46,92.10%,90,94.10%,9.4,4.2,363,50,PULLMAN,8,5
+610100,West Park Elementary Academy,ES,Chicago,IL,60651,Level 3,Weak,29,NDA,NDA,Weak,36,Average,40,NDA,NDA,Weak,46,Average,47,93.70%,16.3,96.70%,10.8,6.9,686,23,HUMBOLDT PARK,37,25
+610224,West Pullman Elementary School,ES,Chicago,IL,60628,Level 3,Weak,23,Average,46,Average,55,Average,47,Average,50,Average,47,Weak,44,91.20%,7.6,93.80%,5.7,5.7,343,53,WEST PULLMAN,34,5
+610542,West Ridge Elementary School,ES,Chicago,IL,60645,Not Enough Data,Strong,67,NDA,NDA,Average,41,Weak,28,NDA,NDA,Weak,46,Strong,58,94.90%,6.8,0.00%,16.9,13,659,2,WEST RIDGE,50,24
+609755,Whitney M Young Magnet High School,HS,Chicago,IL,60607,Level 1,Very Strong,95,Very Strong,80,Strong,69,Strong,67,Average,46,Average,53,Average,50,94.60%,1.2,94.90%,99.5,77,2166,28,NEAR WEST SIDE,2,12
+610230,Wildwood Elementary School,ES,Chicago,IL,60646,Level 1,Very Strong,99,Very Strong,90,Strong,77,Strong,67,Average,45,Strong,55,Weak,37,96.20%,1,95.70%,52.9,33.2,414,12,FOREST GLEN,41,16
+610251,Willa Cather Elementary School,ES,Chicago,IL,60612,Level 1,Strong,69,Strong,70,Strong,78,Very Strong,81,Very Strong,83,Strong,56,Average,53,94.90%,29.5,96.40%,20.3,20.9,234,27,EAST GARFIELD PARK,2,13
+610299,William A Hinton Elementary School,ES,Chicago,IL,60621,Level 3,Very Weak,18,NDA,NDA,Weak,30,Weak,29,NDA,NDA,Weak,45,Average,50,91.70%,28.9,95.10%,9.2,3.8,321,68,ENGLEWOOD,6,7
+610109,William Bishop Owen Scholastic Academy Elementary School,ES,Chicago,IL,60652,Level 1,Average,49,Strong,61,Weak,39,Average,56,Average,47,Strong,58,Average,53,96.90%,1.2,95.00%,28.4,29,243,70,ASHBURN,18,8
+610101,William B Ogden Elementary School,ES,Chicago,IL,60610,Level 2,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,NDA,NDA,NDA,NDA,95.10%,4.5,97.00%,40.8,39.9,722,8,NEAR NORTH SIDE,42,18
+609945,William C Goudy Elementary School,ES,Chicago,IL,60640,Level 1,Strong,70,Average,52,Strong,74,Strong,61,Average,52,NDA,NDA,NDA,NDA,96.10%,6,95.80%,30.8,23.6,805,3,UPTOWN,48,20
+610143,William C Reavis Math & Science Specialty Elementary School,ES,Chicago,IL,60615,Level 3,Average,48,Very Weak,6,Weak,37,Weak,26,Very Weak,15,Weak,45,Average,47,93.50%,37.2,94.80%,5.8,10.1,311,39,KENWOOD,4,2
+610364,William E B Dubois Elementary School,ES,Chicago,IL,60827,Level 3,Average,47,NDA,NDA,Weak,33,Average,42,NDA,NDA,Average,50,Weak,45,93.30%,48.5,94.40%,7.9,5,184,54,RIVERDALE,9,5
+609884,William E Dever Elementary School,ES,Chicago,IL,60634,Level 1,Strong,67,Strong,66,Strong,60,Strong,78,Weak,36,Average,50,Average,48,95.50%,2.1,95.90%,31.5,27.9,843,17,DUNNING,36,16
+609967,William F Finkl Elementary School,ES,Chicago,IL,60608,Level 2,Average,56,Strong,60,Average,50,Average,52,Average,56,Average,49,Strong,54,95.20%,6.7,96.90%,19.2,9.6,588,31,LOWER WEST SIDE,25,10
+609994,William G Hibbard Elementary School,ES,Chicago,IL,60625,Level 2,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Average,49,Average,50,96.50%,3,96.90%,19.3,15.3,1239,14,ALBANY PARK,39,17
+609812,William H Brown Elementary School,ES,Chicago,IL,60612,Level 2,Weak,36,Strong,73,Average,58,Strong,78,Strong,73,Weak,46,Average,49,92.80%,59,94.70%,10.2,3.2,217,28,NEAR WEST SIDE,27,13
+610023,William H King Elementary School,ES,Chicago,IL,60612,Level 3,Average,47,NDA,NDA,Average,44,Average,47,NDA,NDA,NDA,NDA,NDA,NDA,92.40%,17.7,95.10%,10.6,8.4,264,28,NEAR WEST SIDE,2,11
+609734,William Howard Taft High School,HS,Chicago,IL,60631,Level 2,Strong,61,NDA,NDA,Weak,37,Weak,32,NDA,NDA,NDA,NDA,NDA,NDA,89.10%,9.8,96.10%,80.2,50.6,2922,10,NORWOOD PARK,41,16
+610136,William H Prescott Elementary School,ES,Chicago,IL,60614,Level 2,Very Strong,90,NDA,NDA,Average,51,Weak,24,NDA,NDA,Average,50,Average,48,93.50%,73.9,97.60%,16,8.9,240,7,LINCOLN PARK,32,19
+610142,William H Ray Elementary School,ES,Chicago,IL,60637,Level 1,Strong,69,NDA,NDA,Weak,22,Very Weak,12,NDA,NDA,Average,50,Weak,46,95.10%,6.7,94.90%,31.8,35.2,654,41,HYDE PARK,5,2
+610153,William H Ryder Math & Science Specialty Elementary School,ES,Chicago,IL,60620,Level 3,Weak,34,NDA,NDA,Average,42,Average,50,NDA,NDA,NDA,NDA,NDA,NDA,93.00%,22.5,94.30%,10.6,5.6,302,71,AUBURN GRESHAM,21,22
+610167,William H Seward Communication Arts Academy Elementary School,ES,Chicago,IL,60609,Level 2,Average,40,Average,43,Weak,38,Average,41,Strong,63,Average,49,Average,50,95.70%,14.4,95.70%,12.2,7.9,896,61,NEW CITY,20,9
+609698,William J Bogan High School,HS,Chicago,IL,60652,Level 3,Weak,20,NDA,NDA,Very Weak,18,Weak,29,NDA,NDA,Weak,41,Weak,38,75.20%,5.8,94.30%,,,1656,70,ASHBURN,18,8
+610061,William J & Charles H Mayo Elementary School,ES,Chicago,IL,60653,Level 2,Average,52,Average,55,Strong,62,Strong,65,Average,47,Average,50,Strong,55,95.30%,26,95.20%,15.5,6,453,35,DOUGLAS,3,2
+610104,William J Onahan Elementary School,ES,Chicago,IL,60631,Level 1,Strong,64,Average,59,Weak,29,Weak,27,Weak,39,Average,47,Weak,44,95.70%,6.9,96.10%,35.1,29.6,687,10,NORWOOD PARK,41,16
+609678,William Jones College Preparatory High School,HS,Chicago,IL,60605,Level 1,Very Strong,92,NDA,NDA,Strong,64,Strong,67,NDA,NDA,NDA,NDA,NDA,NDA,93.80%,4.5,95.30%,,,871,32,LOOP,2,1
+610193,William K New Sullivan Elementary School,ES,Chicago,IL,60617,Level 3,Weak,27,Average,42,Weak,35,Average,40,Weak,33,Average,47,Strong,54,90.30%,27.3,94.00%,2.9,5.8,527,46,SOUTH CHICAGO,10,4
+610123,William Penn Elementary School,ES,Chicago,IL,60623,Level 3,Strong,78,NDA,NDA,Very Strong,99,Very Strong,99,NDA,NDA,Average,52,Average,53,91.80%,5.7,95.20%,8.1,5.5,423,29,NORTH LAWNDALE,24,10
+609949,William P Gray Elementary School,ES,Chicago,IL,60641,Level 1,Average,57,NDA,NDA,Average,44,Weak,35,NDA,NDA,Average,47,Average,50,95.60%,5.9,95.90%,26.1,19.4,1345,15,PORTAGE PARK,38,16
+610097,William P Nixon Elementary School,ES,Chicago,IL,60639,Level 2,Average,52,NDA,NDA,Strong,70,Strong,62,NDA,NDA,Weak,46,Average,47,95.60%,3.5,95.80%,11.2,9.6,1061,20,HERMOSA,30,25
+609711,William Rainey Harper High School,HS,Chicago,IL,60636,Level 2,Weak,22,Weak,32,Weak,39,Average,42,Weak,31,Average,49,Average,53,73.00%,63.6,94.70%,,,621,67,WEST ENGLEWOOD,15,7
+610232,Williams Multiplex Elementary School,ES,Chicago,IL,60616,Level 2,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Average,50,Average,50,91.60%,17,95.90%,24.3,27.9,266,35,DOUGLAS,3,1
+610336,Williams Preparatory Academy Middle School,MS,Chicago,IL,60616,Level 3,Average,49,NDA,NDA,Average,42,Average,48,NDA,NDA,Average,53,Strong,56,93.30%,14.8,92.40%,7.8,15.5,125,35,DOUGLAS,3,1
+610172,William T Sherman Elementary School,ES,Chicago,IL,60609,Level 3,Weak,32,NDA,NDA,Average,46,Average,55,NDA,NDA,Average,49,Average,52,92.30%,230.6,95.00%,8.1,1.7,462,61,NEW CITY,16,9
+609844,William W Carter Elementary School,ES,Chicago,IL,60637,Level 3,Very Weak,13,Average,49,Weak,33,Weak,35,Strong,62,Weak,46,Weak,46,91.20%,27,95.90%,6.8,5.5,371,40,WASHINGTON PARK,20,2
+610308,Wilma Rudolph Elementary Learning Center,ES,Chicago,IL,60612,Not Enough Data,NDA,,NDA,NDA,NDA,,NDA,,NDA,NDA,Strong,57,Strong,60,80.00%,0,95.60%,,,100,28,NEAR WEST SIDE,27,13
+610088,Wolfgang A Mozart Elementary School,ES,Chicago,IL,60647,Level 2,Average,41,NDA,NDA,Average,56,Weak,32,NDA,NDA,Average,50,Strong,54,95.20%,3.6,96.40%,12,11,748,22,LOGAN SQUARE,35,25
+609977,Woodlawn Community Elementary School,ES,Chicago,IL,60637,Level 2,Strong,70,NDA,NDA,Very Strong,80,Strong,66,NDA,NDA,Strong,59,Strong,54,93.90%,12.4,94.30%,17.5,22.2,238,42,WOODLAWN,5,3
+610392,World Language Academy High School,HS,Chicago,IL,60623,Level 2,Average,51,Weak,33,Average,49,Average,47,Average,49,Average,50,Weak,46,91.60%,4,96.00%,,,382,30,SOUTH LAWNDALE,22,10
