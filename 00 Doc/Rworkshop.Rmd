@@ -28,7 +28,7 @@ source("../01 Data/R_Load_Socioeconomic.R", echo = TRUE)
 ```
 
 ####Explanation of Data:
-These data sets were obtained from the City of Chicago Data Portal (https://data.cityofchicago.org/). All three of our visualizations utilized the Chicago_Crimes dataset and implemented an inner join, outer join, and right join, each with a different data set.
+These data sets were obtained from the City of Chicago Data Portal (https://data.cityofchicago.org/). All three of our visualizations utilized the Chicago_Crimes dataset and implemented an inner join, full join, and right join, each with a different data set.
 
 ##Socioeconomic Indicators
 ```{r}
@@ -40,4 +40,24 @@ source("../02 Data Wrangling/SocioEconomic_Crimes.R", echo = TRUE)
 This visualization aimed to examine the relationship of crime in Chicago in 2015 and Socioeconomic factors. For this visualization, we utilized a right join between the two datasets, with Community Area number as the common measure. Although there are more than 25 different types of crime given through the data set, we limited our analysis to the top eight crime types determined by the highest count of data points.
 
 From this visualization, we can see that the Hardship Index is similar across types of crime for a specific community area. The Hardship Index is indicative of the community environment, just like the other measures like unemployment and income level. Therefore, it seems reasonable to conclude that the crime and hardship levels are consistent within a given community, whether for better or for worse.
+***
+
+##Health Demographic Indicators
+```{r}
+#Shows the subset and summary of the data frame
+source("../02 Data Wrangling/HealthDemographics_Crimes.R", echo = TRUE)
+```
+
+####Findings:
+
+***
+
+##Education Indicators
+```{r}
+#Shows the subset and summary of the data frame
+source("../02 Data Wrangling/PublicSchool_Crimes.R", echo = TRUE)
+```
+
+####Findings:
+
 ***
