@@ -52,12 +52,15 @@ source("../02 Data Wrangling/HealthDemographics_Crimes.R", echo = TRUE)
 
 ***
 
-##Education Indicators
+##Public School Safety and Student Conduct Indicators
 ```{r}
 #Shows the subset and summary of the data frame
 source("../02 Data Wrangling/PublicSchool_Crimes.R", echo = TRUE)
 ```
 
 ####Findings:
+This visualization examines the correlation of a public school's Safety Rating and its Rate of Student Misconduct for schools in areas with records of Narcotics crime. We utilized an inner join between the two datasets of Public School Ratings and Crime, with Community Area code as the common measure. We particularly focus on how Narcotics, as one of the more frequently occurring crime types in Chicago, may play a part in the rating and student conduct in public schools located near such crimes.
+
+Unsurprisingly, we find that as Safety Ratings decrease, Misconduct Rates shift upwards. However, there are still high outliers within the schools of "Very Strong" and "Strong" safety ratings, which suggests that there may be other types of crime that may influence the student misconduct at those schools.
 
 ***
