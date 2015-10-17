@@ -8,7 +8,7 @@ ndfCr <- dfCr %>% group_by(PRIMARY_TYPE, COMMUNITY_AREA) %>% summarise(COUNT = n
 
 pdC <- ndfCr
 pdS <- dfSocio
-ndf<- dplyr::semi_join(pdC, pdS, by="COMMUNITY_AREA")
+ndf<- dplyr::right_join(pdC, pdS, by="COMMUNITY_AREA")
 SEC <- ndf%>%  filter(PRIMARY_TYPE=='BATTERY' | PRIMARY_TYPE=='BURGLARY' | PRIMARY_TYPE=='CRIMINAL DAMAGE' | PRIMARY_TYPE=='DECEPTIVE PRACTICE' | PRIMARY_TYPE=='NARCOTICS' | PRIMARY_TYPE =='OTHER OFFENSE' | PRIMARY_TYPE=='ROBBERY' | PRIMARY_TYPE=='THEFT') 
 ggplot() + 
   coord_cartesian() + 

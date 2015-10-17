@@ -22,7 +22,7 @@ sessionInfo()
 ```{r}
 #Shows the subset and summary of the data frame
 source("../01 Data/R_Load_Crime.R", echo = TRUE)
-source("../01 Data/R_Load_Health.R", echo = TRUE)
+source("../01 Data/R_Load_HealthDemographics.R", echo = TRUE)
 source("../01 Data/R_Load_PublicSchools.R", echo = TRUE)
 source("../01 Data/R_Load_Socioeconomic.R", echo = TRUE)
 ```
@@ -37,7 +37,7 @@ source("../02 Data Wrangling/SocioEconomic_Crimes.R", echo = TRUE)
 ```
 
 ####Findings:
-This visualization aimed to examine the relationship of crime in Chicago in 2015 and Socioeconomic factors. For this visualization, we utilized a semi join between the two datasets, with Community Area number as the common measure. Although there are more than 25 different types of crime given through the data set, we limited our analysis to the top eight crime types determined by the highest count of data points.
+This visualization aimed to examine the relationship of crime in Chicago in 2015 and Socioeconomic factors. For this visualization, we utilized a right join between the two datasets, with Community Area number as the common measure. Although there are more than 25 different types of crime given through the data set, we limited our analysis to the top eight crime types determined by the highest count of data points.
 
 From this visualization, we can see that the Hardship Index is similar across types of crime for a specific community area. The Hardship Index is indicative of the community environment, just like the other measures like unemployment and income level. Therefore, it seems reasonable to conclude that the crime and hardship levels are consistent within a given community, whether for better or for worse.
 
