@@ -59,7 +59,7 @@ From the visualizations we can see that in general the distribution as shown in 
 ##Public School Safety and Student Conduct Indicators
 ```{r}
 #Shows the subset and summary of the data frame
-source("../02 Data Wrangling/PublicSchool_Crimes.R", echo = TRUE)
+source("../02 Data Wrangling/PublicSchools_Crimes.R", echo = TRUE)
 ```
 
 ####Findings:
