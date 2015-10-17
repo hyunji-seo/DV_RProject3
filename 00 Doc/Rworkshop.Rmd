@@ -1,20 +1,43 @@
 ---
-title: "Rworkshop"
+title: "DV_RProject3"
 output: html_document
 ---
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+**Authors: Rolando Melendez, Hyunji Seo, Catherine Tu**
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
+##This is how our RStudio is configured:
 ```{r}
-summary(cars)
+sessionInfo()
+```
+***
+##Program file structure
+  00 Doc - contains .Rmd and .html 
+  
+  01 Data - contains the code to Extract, Transform, and Load our data 
+  
+  02 Data Wrangling - contains our workflows and the code for the visualizations 
+
+***  
+##Data summary and subset
+```{r}
+#Shows the subset and summary of the data frame
+source("../01 Data/R_Load_Crime.R", echo = TRUE)
+source("../01 Data/R_Load_Health.R", echo = TRUE)
+source("../01 Data/R_Load_PublicSchools.R", echo = TRUE)
+source("../01 Data/R_Load_Socioeconomic.R", echo = TRUE)
 ```
 
-You can also embed plots, for example:
+####Explanation of Data:
+These data sets were obtained from the City of Chicago Data Portal (https://data.cityofchicago.org/). All three of our visualizations utilized the Chicago_Crimes dataset and implemented an inner join, outer join, and right join, each with a different data set.
 
-```{r, echo=FALSE}
-plot(cars)
+##Socioeconomic Indicators
+```{r}
+#Shows the subset and summary of the data frame
+source("../02 Data Wrangling/SocioEconomic_Crimes.R", echo = TRUE)
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+####Findings:
+This visualization aimed to examine the relationship of crime in Chicago in 2015 and Socioeconomic factors. For this visualization, we utilized a right join between the two datasets, with Community Area number as the common measure. Although there are more than 25 different types of crime given through the data set, we limited our analysis to the top eight crime types determined by the highest count of data points.
+
+From this visualization, we can see that the Hardship Index is similar across types of crime for a specific community area. The Hardship Index is indicative of the community environment, just like the other measures like unemployment and income level. Therefore, it seems reasonable to conclude that the crime and hardship levels are consistent within a given community, whether for better or for worse.
+***
