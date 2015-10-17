@@ -37,9 +37,10 @@ source("../02 Data Wrangling/SocioEconomic_Crimes.R", echo = TRUE)
 ```
 
 ####Findings:
-This visualization aimed to examine the relationship of crime in Chicago in 2015 and Socioeconomic factors. For this visualization, we utilized a right join between the two datasets, with Community Area number as the common measure. Although there are more than 25 different types of crime given through the data set, we limited our analysis to the top eight crime types determined by the highest count of data points.
+This visualization aimed to examine the relationship of crime in Chicago in 2015 and Socioeconomic factors. For this visualization, we utilized a semi join between the two datasets, with Community Area number as the common measure. Although there are more than 25 different types of crime given through the data set, we limited our analysis to the top eight crime types determined by the highest count of data points.
 
 From this visualization, we can see that the Hardship Index is similar across types of crime for a specific community area. The Hardship Index is indicative of the community environment, just like the other measures like unemployment and income level. Therefore, it seems reasonable to conclude that the crime and hardship levels are consistent within a given community, whether for better or for worse.
+
 ***
 
 ##Health Demographic Indicators
@@ -49,6 +50,9 @@ source("../02 Data Wrangling/HealthDemographics_Crimes.R", echo = TRUE)
 ```
 
 ####Findings:
+This visualization aimed to examine the relationship of crime in Chicago in 2015 and Health Demogrphics. For this visualization, we utilized a full join between the two datasets, with Community Area number as the common measure. This visualization focused on an 8 count spread of 31 total crime types ranging from high to low count of data points. The two visualizations focus on teen birth rate and overall birth rate, respectively. This plots each birthrate on the x-axis and homicide counts on the y-axis.
+
+From the visualizations we can see that in general the distribution as shown in the boxplots for each crime type is very similar between the teen and the overall birth rate data. What can be seen is that for seemingly "less dangerous" crimes (Other Nacotic Violation, Sex Offense, and Theft) the range of the spread of homicide is on the low end. What is clearly apparent is that the birthrate for the overall city seems to have a slightly more steady and stagnant growth in homicide when compared to that of the teen birth rates. In teen birth rates there is a clear correlation between higher birthrate and higher homocide rates. This makes it seem that the more teens get pregnant and give birth the higher their corresponding crime rates are.
 
 ***
 
